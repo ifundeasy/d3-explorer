@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+<head>
+	<style>
+		body {
+			font-family : "Helvetica Neue", Helvetica, Arial, sans-serif;
+			margin      : auto;
+			position    : relative;
+			width       : 960px;
+		}
+		form {
+			position : absolute;
+			right    : 10px;
+			top      : 10px;
+		}
+		path {
+			stroke    : #FFFFFF;
+			stroke-width: 2;
+			stroke-opacity: 0.2;
+			fill-rule : evenodd;
+		}
+		text {
+			font-family : Arial, sans-serif;
+			font-size   : 12px;
+		}
+	</style>
+</head>
+<body>
+<form>
+	<label><input type="radio" name="mode" value="size"> Size</label>
+	<label><input type="radio" name="mode" value="count" checked> Count</label>
+</form>
+<script src="bower/d3/d3.min.js"></script>
+<script>
+	var find = function (o) {
+		if (o.parent) console.log(o.parent.name, o.name);
+		console.log(o);
+		if (o.children) {
+			//console.log(o.name);
+			o.children.forEach(function (oo) {
+				find(oo)
+			})
+		}
+	};
+	//find(node);
+</script>
+<script>
+	d3.json("data/flare.json", function (error, data) {
+		var width = 960;
+		var height = 700;
+		var delay = 1000;
+		var radius = Math.min(width, height) / 2;
+		var x = d3.scale.linear().range([0, 2 * Math.PI]);
+		var y = d3.scale.sqrt().range([0, radius]);
+		var color = d3.scale.category20c();
+		var partition = d3.layout.partition().sort(null).value(function (d) {
+			return 1;
+		});
+		//
+		var arc = d3.svg.arc()
+			.startAngle(function (d) {
+				return Math.max(0, Math.min(2 * Math.PI, x(d.x)));
+			})
+			.endAngle(function (d) {
+				return Math.max(0, Math.min(2 * Math.PI, x(d.x + d.dx)));
+			})
+			.innerRadius(function (d) {
+				d.innerRadius = Math.max(0, Math.min(2 * Math.PI, x(d.x)));
+				return Math.max(0, y(d.y));
+			})
+			.outerRadius(function (d) {
+				d.outerRadius = Math.max(0, y(d.y + d.dy));
+				return Math.max(0, y(d.y + d.dy));
+			});
+		var sorter = function (value) {
+			return value === "count" ? (function () {
+				return 1;
+			}) : (function (d) {
+				return d.size;
+			})
+		};
+		var stash = function (d) {
+			d.x0 = d.x;
+			d.dx0 = d.dx;
+		};
+		var arcTweenData = function (a, i) {
+			var oi = d3.interpolate({x : a.x0, dx : a.dx0}, a);
+
+			function tween(t) {
+				var b = oi(t);
+				a.x0 = b.x;
+				a.dx0 = b.dx;
+				return arc(b);
+			}
+
+			if (i == 0) {
+				// If we are on the first arc, adjust the x domain to match the root node
+				// at the current zoom level. (We only need to do this once.)
+				var xd = d3.interpolate(x.domain(), [data.x, data.x + data.dx]);
+				return function (t) {
+					x.domain(xd(t));
+					return tween(t);
+				};
+			} else {
+				return tween;
+			}
+		};
+		var arcTweenZoom = function (d) {
+			var xd = d3.interpolate(x.domain(), [d.x, d.x + d.dx]),
+				yd = d3.interpolate(y.domain(), [d.y, 1]),
+				yr = d3.interpolate(y.range(), [d.y ? 20 : 0, radius]);
+			return function (d, i) {
+				return i ? function (t) {
+					return arc(d);
+				} : function (t) {
+					x.domain(xd(t));
+					y.domain(yd(t)).range(yr(t));
+					return arc(d);
+				};
+			};
+		};
+		var textRotation = function (d) {
+			return (x(d.x + d.dx / 2) - Math.PI / 2) / Math.PI * 180;
+		};
+		//
+		var svg = d3.select("body").append("svg");
+		var root = svg.append("g");
+		var group = root.datum(data).selectAll("g").data(partition.nodes).enter().append("g");
+		var path = group.append("path");
+		var text = group.append("text");
+		var title = group.append('title');
+		//
+		svg.attr({width : width, height : height});
+		root.attr("transform", "translate(" + width / 2 + "," + (height / 2 + 10) + ")");
+		path.attr("d", arc)
+			.style("fill", function (d) {
+				return color((d.children ? d : d.parent).name);
+			})
+			.on("click", function click(d) {
+				data = d;
+				text.transition().attr("opacity", 0);
+				path.transition()
+					.duration(delay)
+					.attrTween("d", arcTweenZoom(d))
+					.each("end", function (e, i) {
+						if (e.x >= d.x && e.x < (d.x + d.dx)) {
+							var arcText = d3.select(this.parentNode).select("text");
+							arcText.transition().duration(delay/2)
+								.attr("opacity", 1)
+								.attr("transform", function () {
+									return "rotate(" + textRotation(e) + ")"
+								})
+								.attr("x", function (d) {
+									return y(d.y);
+								});
+						}
+					});
+			})
+			.each(stash);
+		title.text(function (d) {
+			var txt = d.name;
+			if (!d.children) txt += ' ' + d.size;
+			//d.size = d.size || d.children.map(function (a) {return a.size}).reduce(function (a, b) {return a + b});
+			return txt
+		});
+		text.attr("transform", function (d) {
+				return "rotate(" + textRotation(d) + ")";
+			})
+			.attr("x", function (d) {
+				return y(d.y);
+			})
+			.attr("dx", "2") // margin
+			.attr("dy", ".35em") // vertical-align
+			.text(function (d) {
+				var parent = this.previousSibling;
+				var width = parent.getBBox().width;
+				return d.name;
+			});
+		//
+		d3.selectAll("input").on("change", function change() {
+			text.transition().attr("opacity", 0);
+			path
+				.data(partition.value(sorter(this.value)).nodes)
+				.transition()
+				.duration(delay)
+				.attrTween("d", arcTweenData)
+				.each("end", function (e, i) {
+					var arcText = d3.select(this.parentNode).select("text");
+					arcText.transition().duration(delay/2)
+						.attr("opacity", 1)
+						.attr("transform", function () {
+							return "rotate(" + textRotation(e) + ")"
+						})
+						.attr("x", function (d) {
+							return y(d.y);
+						});
+				});
+		});
+	});
+</script>
+</body>
+</html>

@@ -1,0 +1,2820 @@
+{
+    "compare" : {
+        "fields" : ["media","media_category","cnt","color","topic"],
+        "rows" : [
+            ["rmol.co", "-", 680, "#ff9300", "Jokowi"],
+            ["sp.beritasatu.com", "-", 268, "#ff9300", "Jokowi"],
+            ["id.beritasatu.com", "-", 228, "#ff9300", "Jokowi"],
+            ["jpnn.com", "-", 126, "#ff9300", "Jokowi"],
+            ["detik.com", "Bagus Prihantoro Nugroho - detikNews", 120, "#ff9300", "Jokowi"],
+            ["tempo.co", "-", 102, "#ff9300", "Jokowi"],
+            ["inilah.com", "Oleh : -", 101, "#ff9300", "Jokowi"],
+            ["bisnis.com", "Demis Rizky Gosta", 99, "#71bef3", "Rupiah"],
+            ["detik.com", "Ray Jordan - detikNews", 96, "#ff9300", "Jokowi"],
+            ["id.beritasatu.com", "-", 96, "#71bef3", "Rupiah"],
+            ["teropongsenayan.com", "-", 86, "#ff9300", "Jokowi"],
+            ["detik.com", "Maikel Jefriando", 82, "#ff9300", "Jokowi"],
+            ["jpnn.com", "(flo/jpnn)", 79, "#ff9300", "Jokowi"],
+            ["okezone.com", "Dani Jumadil Akhir", 77, "#ff9300", "Jokowi"],
+            ["bisnis.com", "Akhirul Anwar", 76, "#ff9300", "Jokowi"],
+            ["merdeka.com", "Reporter : Muhammad Sholeh", 75, "#ff9300", "Jokowi"],
+            ["inilah.com", "Oleh : Ajat M Fajar", 72, "#ff9300", "Jokowi"],
+            ["kompas.com", "Editor\n                                            : Bayu Galih", 72, "#ff9300", "Jokowi"],
+            ["inilah.com", "Oleh : -", 72, "#71bef3", "Rupiah"],
+            ["sindonews.com", "Rico Afrido Simanjuntak", 71, "#ff9300", "Jokowi"],
+            ["rmol.co", "1", 68, "#ff9300", "Jokowi"],
+            ["bisnis.com", "Newswire", 60, "#ff9300", "Jokowi"],
+            ["sindonews.com", "Alfani Roosy Andinni", 60, "#ff9300", "Jokowi"],
+            ["sindonews.com", "Lily Rusna Fajriah", 60, "#ff9300", "Jokowi"],
+            ["tribunnews.com", "Editor: Adi Suhendi", 60, "#ff9300", "Jokowi"],
+            ["tempo.co", "-", 58, "#71bef3", "Rupiah"],
+            ["republika.co.id", "Red: Esthi Maharani", 54, "#ff9300", "Jokowi"],
+            ["jpnn.com", "(fas/jpnn)", 53, "#ff9300", "Jokowi"],
+            ["kompas.com", "Editor\n                                            : Sabrina Asril", 53, "#ff9300", "Jokowi"],
+            ["tribunnews.com", "Editor: Hasanudin Aco", 52, "#ff9300", "Jokowi"],
+            ["tempo.co", "ANANDA TERESIA", 48, "#ff9300", "Jokowi"],
+            ["tempo.co", "ANGELINA ANJAR SAWITRI", 48, "#ff9300", "Jokowi"],
+            ["tribunnews.com", "Editor: Willy Widianto", 46, "#ff9300", "Jokowi"],
+            ["bisnis.com", "Lili Sunardi", 42, "#ff9300", "Jokowi"],
+            ["inilah.com", "Oleh : Abdullah Mubarok", 41, "#ff9300", "Jokowi"],
+            ["rmol.co", "-", 41, "#71bef3", "Rupiah"],
+            ["indopos.co.id", "Uploader Pratama", 40, "#ff9300", "Jokowi"],
+            ["detik.com", "Dewi Rachmat Kusuma", 39, "#71bef3", "Rupiah"],
+            ["republika.co.id", "Red: Angga Indrawan", 38, "#ff9300", "Jokowi"],
+            ["antaranews.com", "Agus Salim", 37, "#ff9300", "Jokowi"],
+            ["bisnis.com", "Sukirno", 36, "#71bef3", "Rupiah"],
+            ["republika.co.id", "Red: Bayu Hermawan", 36, "#ff9300", "Jokowi"],
+            ["kompas.com", "Editor\n                                            : Inggried Dwi Wedhaswary", 34, "#ff9300", "Jokowi"],
+            ["antaranews.com", "Zubi Mahrofi", 33, "#71bef3", "Rupiah"],
+            ["merdeka.com", "Reporter : Sri Wiyanti", 32, "#ff9300", "Jokowi"],
+            ["bisnis.com", "Gita Arwana Cakti", 32, "#71bef3", "Rupiah"],
+            ["merdeka.com", "Reporter : Dieqy Hasbi Widhana", 30, "#ff9300", "Jokowi"],
+            ["sindonews.com", "Anto Kurniawan", 30, "#71bef3", "Rupiah"],
+            ["id.beritasatu.com", "-", 29, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["sp.beritasatu.com", "-", 29, "#71bef3", "Rupiah"],
+            ["detik.com", "Angga Aliya", 27, "#71bef3", "Rupiah"],
+            ["sp.beritasatu.com", "1", 27, "#ff9300", "Jokowi"],
+            ["viva.co.id", "Oleh :        Ezra Natalyn", 26, "#ff9300", "Jokowi"],
+            ["poskotanews.com", "-", 26, "#ff9300", "Jokowi"],
+            ["antaranews.com", "Hanni Sofia Soepardi", 26, "#ff9300", "Jokowi"],
+            ["sindonews.com", "Yanuar Riezqi Yovanda", 26, "#71bef3", "Rupiah"],
+            ["kompas.com", "Editor\n                                    : Bambang Priyo Jatmiko", 25, "#71bef3", "Rupiah"],
+            ["beritasatu.com", "Faisal Maliki Baskoro/FMB", 25, "#71bef3", "Rupiah"],
+            ["jpnn.com", "-", 23, "#71bef3", "Rupiah"],
+            ["beritasatu.com", "Paulus Nitbani/PCN", 23, "#71bef3", "Rupiah"],
+            ["beritasatu.com", "Whisnu Bagus Prasetyo/WBP", 21, "#71bef3", "Rupiah"],
+            ["liputan6.com", "Luqman Rimadi", 21, "#ff9300", "Jokowi"],
+            ["sindonews.com", "Izzudin", 21, "#71bef3", "Rupiah"],
+            ["kompas.com", "Editor\n                                    : Erlangga Djumena", 21, "#71bef3", "Rupiah"],
+            ["beritasatu.com", "Novy Lumanauw/FMB", 20, "#ff9300", "Jokowi"],
+            ["beritasatu.com", "Carlos KY Paath/YUD", 20, "#ff9300", "Jokowi"],
+            ["merdeka.com", "Sumber :", 20, "#71bef3", "Rupiah"],
+            ["okezone.com", "ant", 19, "#ff9300", "Jokowi"],
+            ["okezone.com", "Martin Bagya Kertiyasa", 19, "#71bef3", "Rupiah"],
+            ["cnnindonesia.com", "Resty Armenia", 19, "#ff9300", "Jokowi"],
+            ["id.beritasatu.com", "1", 18, "#ff9300", "Jokowi"],
+            ["liputan6.com", "Liputan6", 18, "#ff9300", "Jokowi"],
+            ["beritasatu.com", "Carlos KY Paath/PCN", 18, "#ff9300", "Jokowi"],
+            ["antaranews.com", "Joko Susilo", 18, "#ff9300", "Jokowi"],
+            ["detik.com", "Ayunda Windyastuti Savitri - detikNews", 18, "#71bef3", "Rupiah"],
+            ["okezone.com", "2", 17, "#ff9300", "Jokowi"],
+            ["poskotanews.com", "1", 17, "#ff9300", "Jokowi"],
+            ["tribunnews.com", "Editor: Hendra Gunawan", 16, "#71bef3", "Rupiah"],
+            ["tempo.co", "GHOIDA RAHMAH", 16, "#71bef3", "Rupiah"],
+            ["viva.co.id", "Oleh :        Eko Priliawito, Agus Rahmat", 15, "#ff9300", "Jokowi"],
+            ["liputan6.com", "Fiki Ariyanti", 15, "#ff9300", "Jokowi"],
+            ["inilah.com", "Oleh : Reza Adi Surya", 15, "#71bef3", "Rupiah"],
+            ["viva.co.id", "Oleh :        Suryanta Bakti Susila, Agus Rahmat", 15, "#ff9300", "Jokowi"],
+            ["merdeka.com", "Reporter : Novita Intan Sari", 15, "#71bef3", "Rupiah"],
+            ["metrotvnews.com", "Desi Angriani ", 14, "#ff9300", "Jokowi"],
+            ["okezone.com", "Danang Sugianto", 14, "#71bef3", "Rupiah"],
+            ["inilah.com", "Oleh : -", 14, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["tribunnews.com", "Editor: Dewi Agustina", 14, "#71bef3", "Rupiah"],
+            ["okezone.com", "1", 14, "#71bef3", "Rupiah"],
+            ["detik.com", "Maikel Jefriando", 13, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["republika.co.id", "Red: Nidia Zuraya", 13, "#71bef3", "Rupiah"],
+            ["liputan6.com", "Agustina Melani", 13, "#71bef3", "Rupiah"],
+            ["poskotanews.com", "-", 13, "#71bef3", "Rupiah"],
+            ["inilah.com", "Oleh : Indra Hendriana", 12, "#71bef3", "Rupiah"],
+            ["merdeka.com", "Reporter : Idris Rusadi Putra", 11, "#71bef3", "Rupiah"],
+            ["teropongsenayan.com", "1", 11, "#ff9300", "Jokowi"],
+            ["antaranews.com", "Zubi Mahrofi", 11, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["rmol.co", "-", 10, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["kompas.com", "Editor\n                                            : Ana Shofiana Syatiri", 10, "#71bef3", "Rupiah"],
+            ["republika.co.id", "Red: Nur Aini", 10, "#71bef3", "Rupiah"],
+            ["tribunnews.com", "Editor: Johnson Simanjuntak", 9, "#71bef3", "Rupiah"],
+            ["sindonews.com", "Lily Rusna Fajriah", 9, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["liputan6.com", "Septian Deny", 9, "#71bef3", "Rupiah"],
+            ["teropongsenayan.com", "-", 8, "#71bef3", "Rupiah"],
+            ["indopos.co.id", "Uploader Aryo Kurniawan", 8, "#ff9300", "Jokowi"],
+            ["metrotvnews.com", "Dian Ihsan Siregar ", 7, "#71bef3", "Rupiah"],
+            ["tempo.co", "-", 7, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["indopos.co.id", "Uploader Pratama", 7, "#71bef3", "Rupiah"],
+            ["republika.co.id", "Red: M Akbar", 7, "#71bef3", "Rupiah"],
+            ["beritasatu.com", "Tri Listiyarini/TL", 6, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["cnnindonesia.com", "Christie Stefanie", 6, "#ff9300", "Jokowi"],
+            ["detik.com", "Dewi Rachmat Kusuma", 6, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["inilah.com", "Oleh : M fadil djailani", 6, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["viva.co.id", "Oleh :        Daurina Lestari, Romys Binekasri", 6, "#71bef3", "Rupiah"],
+            ["liputan6.com", "Fiki Ariyanti", 6, "#71bef3", "Rupiah"],
+            ["jpnn.com", "(fat/jpnn)", 6, "#71bef3", "Rupiah"],
+            ["liputan6.com", "Achmad Dwi Afriyadi", 6, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["antaranews.com", "-", 5, "#71bef3", "Rupiah"],
+            ["beritasatu.com", "Nasori/NAS", 5, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["tempo.co", "ALI HIDAYAT", 5, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["id.beritasatu.com", "1", 5, "#71bef3", "Rupiah"],
+            ["viva.co.id", "Oleh :        Daurina Lestari", 5, "#71bef3", "Rupiah"],
+            ["viva.co.id", "Oleh :        Rochimawati, Romys Binekasri", 5, "#71bef3", "Rupiah"],
+            ["tempo.co", "ANTARA", 5, "#71bef3", "Rupiah"],
+            ["cnnindonesia.com", "Abi Sarwanto", 5, "#ff9300", "Jokowi"],
+            ["republika.co.id", "Red: Nidia Zuraya", 5, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["jpnn.com", "(gil/jpnn)", 4, "#71bef3", "Rupiah"],
+            ["id.beritasatu.com", "1", 4, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["republika.co.id", "Red: Nur Aini", 4, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["okezone.com", "Dani Jumadil Akhir", 4, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["detik.com", "Lani Pujiastuti", 4, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["poskotanews.com", "1", 4, "#71bef3", "Rupiah"],
+            ["metrotvnews.com", "Ellavie Ichlasa Amalia ", 4, "#ff9300", "Jokowi"],
+            ["metrotvnews.com", "Achmad Zulfikar Fazli ", 4, "#ff9300", "Jokowi"],
+            ["metrotvnews.com", "Husen Miftahudin ", 4, "#71bef3", "Rupiah"],
+            ["rmol.co", "1", 4, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["kompas.com", "Editor\n                                    : Erlangga Djumena", 4, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["bisnis.com", "Demis Rizky Gosta", 4, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["okezone.com", "0", 4, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["merdeka.com", "Reporter : Sri Wiyanti", 4, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["bisnis.com", "Muhammad Abdi Amna", 4, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["liputan6.com", "Ilyas Istianur Praditya", 3, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["liputan6.com", "Septian Deny", 3, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["metrotvnews.com", "Angga Bratadharma ", 3, "#71bef3", "Rupiah"],
+            ["bisnis.com", "Martin Sihombing", 3, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["viva.co.id", "Oleh :        Raden Jihad Akbar, Chandra G. Asmara", 3, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["kompas.com", "Editor\n                                    : Bambang Priyo Jatmiko", 3, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["tempo.co", "LARISSA HUDA", 3, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["antaranews.com", "Indra Arief Pribadi", 3, "#71bef3", "Rupiah"],
+            ["okezone.com", "Danang Sugianto", 3, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["sindonews.com", "Yanuar Riezqi Yovanda", 3, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["antaranews.com", "Agus Salim", 2, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["cnnindonesia.com", "Giras Pasopati", 2, "#71bef3", "Rupiah"],
+            ["viva.co.id", "Oleh :        Raden Jihad Akbar, Fikri Halim", 2, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["teropongsenayan.com", "-", 2, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["viva.co.id", "Oleh :        Daurina Lestari, Rizki Aulia Rachman", 2, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["republika.co.id", "Rep: Rizky Jaramaya/ \n              Red: Nur Aini", 2, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["cnnindonesia.com", "Elisa Valenta Sari", 2, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["beritasatu.com", "Fajar Widhiyanto/Windarto/FW", 2, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["inilah.com", "Oleh : Ranto rajagukguk", 2, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["cnnindonesia.com", "Elisa Valenta Sari", 2, "#71bef3", "Rupiah"],
+            ["indopos.co.id", "Uploader Pratama", 2, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["merdeka.com", "Reporter : Siti Nur Azzura", 2, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["indopos.co.id", "Uploader Aryo Kurniawan", 1, "#71bef3", "Rupiah"],
+            ["jpnn.com", "0", 1, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["cnnindonesia.com", "Diemas Kresna Duta", 1, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["jpnn.com", "(owi)", 1, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["teropongsenayan.com", "1", 1, "#71bef3", "Rupiah"],
+            ["kompas.com", "Editor\n                                            : Sabrina Asril", 1, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["cnnindonesia.com", "Aghnia Adzkia", 1, "#71bef3", "Rupiah"],
+            ["sp.beritasatu.com", "1", 1, "#71bef3", "Rupiah"],
+            ["cnnindonesia.com", "Galih Gumelar", 1, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["sp.beritasatu.com", "0", 1, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["sp.beritasatu.com", "-", 1, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["jpnn.com", "(fat/jpnn)", 1, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["tribunnews.com", "Editor: Adi Suhendi", 1, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["tribunnews.com", "-", 1, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["merdeka.com", "Reporter : Hana Adi Perdana", 1, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["sindonews.com", "2", 1, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["metrotvnews.com", "Suci Sedya Utami ", 1, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["metrotvnews.com", "Gervin Nathaniel Purba ", 1, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["metrotvnews.com", "Desi Angriani ", 1, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["rmol.co", "1", 1, "#71bef3", "Rupiah"],
+            ["antaranews.com", "Ade Irma Junida", 1, "#2c4dc1", "Paket Kebijakan Ekonomi"],
+            ["rmol.co", "Laporan: Wahyu Sabda Kuncahyo", 1, "#ff9300", "Jokowi"],
+            ["tribunnews.com", "Editor: Dewi Agustina", 1, "#2c4dc1", "Paket Kebijakan Ekonomi"]
+        ],
+        "data" : {
+            "name": "Treemap Media by author",
+            "id": 100000,
+            "children": [
+                {
+                    "name": "#ff9300~rmol.co",
+                    "children": [
+                        {
+                            "media": "rmol.co",
+                            "size": 691,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "0",
+                            "name": "#ff9300~-"
+                        },
+                        {
+                            "media": "rmol.co",
+                            "size": 25,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "53",
+                            "name": "#ff9300~1"
+                        },
+                        {
+                            "media": "rmol.co",
+                            "size": 1,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "167",
+                            "name": "#ff9300~Laporan: Wahyu Sabda Kuncahyo"
+                        }
+                    ],
+                    "id": "1770"
+                },
+                {
+                    "name": "#ff9300~sp.beritasatu.com",
+                    "children": [
+                        {
+                            "media": "sp.beritasatu.com",
+                            "size": 277,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "1",
+                            "name": "#ff9300~-"
+                        },
+                        {
+                            "media": "sp.beritasatu.com",
+                            "size": 3,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "140",
+                            "name": "#ff9300~1"
+                        }
+                    ],
+                    "id": "1771"
+                },
+                {
+                    "name": "#ff9300~id.beritasatu.com",
+                    "children": [
+                        {
+                            "media": "id.beritasatu.com",
+                            "size": 241,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "2",
+                            "name": "#ff9300~-"
+                        },
+                        {
+                            "media": "id.beritasatu.com",
+                            "size": 6,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "102",
+                            "name": "#ff9300~1"
+                        }
+                    ],
+                    "id": "1772"
+                },
+                {
+                    "name": "#ff9300~jpnn.com",
+                    "children": [
+                        {
+                            "media": "jpnn.com",
+                            "size": 129,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "3",
+                            "name": "#ff9300~-"
+                        },
+                        {
+                            "media": "jpnn.com",
+                            "size": 78,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "11",
+                            "name": "#ff9300~(flo/jpnn)"
+                        },
+                        {
+                            "media": "jpnn.com",
+                            "size": 52,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "26",
+                            "name": "#ff9300~(fas/jpnn)"
+                        }
+                    ],
+                    "id": "1773"
+                },
+                {
+                    "name": "#ff9300~detik.com",
+                    "children": [
+                        {
+                            "media": "detik.com",
+                            "size": 109,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "4",
+                            "name": "#ff9300~Bagus Prihantoro Nugroho - detikNews"
+                        },
+                        {
+                            "media": "detik.com",
+                            "size": 98,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "8",
+                            "name": "#ff9300~Ray Jordan - detikNews"
+                        },
+                        {
+                            "media": "detik.com",
+                            "size": 78,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "12",
+                            "name": "#ff9300~Maikel Jefriando"
+                        }
+                    ],
+                    "id": "1774"
+                },
+                {
+                    "name": "#ff9300~tempo.co",
+                    "children": [
+                        {
+                            "media": "tempo.co",
+                            "size": 103,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "5",
+                            "name": "#ff9300~-"
+                        },
+                        {
+                            "media": "tempo.co",
+                            "size": 49,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "29",
+                            "name": "#ff9300~ANGELINA ANJAR SAWITRI"
+                        },
+                        {
+                            "media": "tempo.co",
+                            "size": 48,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "30",
+                            "name": "#ff9300~ANANDA TERESIA"
+                        }
+                    ],
+                    "id": "1775"
+                },
+                {
+                    "name": "#ff9300~inilah.com",
+                    "children": [
+                        {
+                            "media": "inilah.com",
+                            "size": 100,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "6",
+                            "name": "#ff9300~Oleh : -"
+                        },
+                        {
+                            "media": "inilah.com",
+                            "size": 67,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "18",
+                            "name": "#ff9300~Oleh : Ajat M Fajar"
+                        },
+                        {
+                            "media": "inilah.com",
+                            "size": 38,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "36",
+                            "name": "#ff9300~Oleh : Abdullah Mubarok"
+                        }
+                    ],
+                    "id": "1776"
+                },
+                {
+                    "name": "#71bef3~id.beritasatu.com",
+                    "children": [
+                        {
+                            "media": "id.beritasatu.com",
+                            "size": 98,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "7",
+                            "name": "#71bef3~-"
+                        }
+                    ],
+                    "id": "1777"
+                },
+                {
+                    "name": "#71bef3~bisnis.com",
+                    "children": [
+                        {
+                            "media": "bisnis.com",
+                            "size": 94,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "9",
+                            "name": "#71bef3~Demis Rizky Gosta"
+                        },
+                        {
+                            "media": "bisnis.com",
+                            "size": 38,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "35",
+                            "name": "#71bef3~Sukirno"
+                        },
+                        {
+                            "media": "bisnis.com",
+                            "size": 33,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "41",
+                            "name": "#71bef3~Demis Rizky Gosta & Atiqa Hanum"
+                        }
+                    ],
+                    "id": "1778"
+                },
+                {
+                    "name": "#ff9300~teropongsenayan.com",
+                    "children": [
+                        {
+                            "media": "teropongsenayan.com",
+                            "size": 86,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "10",
+                            "name": "#ff9300~-"
+                        },
+                        {
+                            "media": "teropongsenayan.com",
+                            "size": 6,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "101",
+                            "name": "#ff9300~1"
+                        }
+                    ],
+                    "id": "1779"
+                },
+                {
+                    "name": "#ff9300~bisnis.com",
+                    "children": [
+                        {
+                            "media": "bisnis.com",
+                            "size": 76,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "13",
+                            "name": "#ff9300~Akhirul Anwar"
+                        },
+                        {
+                            "media": "bisnis.com",
+                            "size": 57,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "24",
+                            "name": "#ff9300~Newswire"
+                        },
+                        {
+                            "media": "bisnis.com",
+                            "size": 36,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "38",
+                            "name": "#ff9300~Lili Sunardi"
+                        }
+                    ],
+                    "id": "17710"
+                },
+                {
+                    "name": "#ff9300~merdeka.com",
+                    "children": [
+                        {
+                            "media": "merdeka.com",
+                            "size": 72,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "14",
+                            "name": "#ff9300~Reporter : Muhammad Sholeh"
+                        },
+                        {
+                            "media": "merdeka.com",
+                            "size": 34,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "39",
+                            "name": "#ff9300~Reporter : Sri Wiyanti"
+                        },
+                        {
+                            "media": "merdeka.com",
+                            "size": 28,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "48",
+                            "name": "#ff9300~Reporter : Dieqy Hasbi Widhana"
+                        }
+                    ],
+                    "id": "17711"
+                },
+                {
+                    "name": "#ff9300~okezone.com",
+                    "children": [
+                        {
+                            "media": "okezone.com",
+                            "size": 71,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "15",
+                            "name": "#ff9300~Dani Jumadil Akhir"
+                        },
+                        {
+                            "media": "okezone.com",
+                            "size": 20,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "61",
+                            "name": "#ff9300~ant"
+                        },
+                        {
+                            "media": "okezone.com",
+                            "size": 16,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "72",
+                            "name": "#ff9300~2"
+                        }
+                    ],
+                    "id": "17712"
+                },
+                {
+                    "name": "#71bef3~inilah.com",
+                    "children": [
+                        {
+                            "media": "inilah.com",
+                            "size": 71,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "16",
+                            "name": "#71bef3~Oleh : -"
+                        },
+                        {
+                            "media": "inilah.com",
+                            "size": 14,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "78",
+                            "name": "#71bef3~Oleh : Indra Hendriana"
+                        },
+                        {
+                            "media": "inilah.com",
+                            "size": 14,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "80",
+                            "name": "#71bef3~Oleh : Reza Adi Surya"
+                        }
+                    ],
+                    "id": "17713"
+                },
+                {
+                    "name": "#ff9300~kompas.com",
+                    "children": [
+                        {
+                            "media": "kompas.com",
+                            "size": 70,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "17",
+                            "name": "#ff9300~Editor\n                                            : Bayu Galih"
+                        },
+                        {
+                            "media": "kompas.com",
+                            "size": 50,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "28",
+                            "name": "#ff9300~Editor\n                                            : Sabrina Asril"
+                        },
+                        {
+                            "media": "kompas.com",
+                            "size": 33,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "43",
+                            "name": "#ff9300~Editor\n                                            : Inggried Dwi Wedhaswary"
+                        }
+                    ],
+                    "id": "17714"
+                },
+                {
+                    "name": "#ff9300~sindonews.com",
+                    "children": [
+                        {
+                            "media": "sindonews.com",
+                            "size": 66,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "19",
+                            "name": "#ff9300~Rico Afrido Simanjuntak"
+                        },
+                        {
+                            "media": "sindonews.com",
+                            "size": 59,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "20",
+                            "name": "#ff9300~Lily Rusna Fajriah"
+                        },
+                        {
+                            "media": "sindonews.com",
+                            "size": 58,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "22",
+                            "name": "#ff9300~Alfani Roosy Andinni"
+                        }
+                    ],
+                    "id": "17715"
+                },
+                {
+                    "name": "#71bef3~tempo.co",
+                    "children": [
+                        {
+                            "media": "tempo.co",
+                            "size": 59,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "21",
+                            "name": "#71bef3~-"
+                        },
+                        {
+                            "media": "tempo.co",
+                            "size": 15,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "74",
+                            "name": "#71bef3~GHOIDA RAHMAH"
+                        },
+                        {
+                            "media": "tempo.co",
+                            "size": 5,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "120",
+                            "name": "#71bef3~ANTARA"
+                        }
+                    ],
+                    "id": "17716"
+                },
+                {
+                    "name": "#ff9300~tribunnews.com",
+                    "children": [
+                        {
+                            "media": "tribunnews.com",
+                            "size": 58,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "23",
+                            "name": "#ff9300~Editor: Adi Suhendi"
+                        },
+                        {
+                            "media": "tribunnews.com",
+                            "size": 50,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "27",
+                            "name": "#ff9300~Editor: Hasanudin Aco"
+                        },
+                        {
+                            "media": "tribunnews.com",
+                            "size": 42,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "32",
+                            "name": "#ff9300~Editor: Sanusi"
+                        }
+                    ],
+                    "id": "17717"
+                },
+                {
+                    "name": "#ff9300~republika.co.id",
+                    "children": [
+                        {
+                            "media": "republika.co.id",
+                            "size": 54,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "25",
+                            "name": "#ff9300~Red: Esthi Maharani"
+                        },
+                        {
+                            "media": "republika.co.id",
+                            "size": 39,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "33",
+                            "name": "#ff9300~Red: Angga Indrawan"
+                        },
+                        {
+                            "media": "republika.co.id",
+                            "size": 33,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "44",
+                            "name": "#ff9300~Red: Bayu Hermawan"
+                        }
+                    ],
+                    "id": "17718"
+                },
+                {
+                    "name": "#71bef3~rmol.co",
+                    "children": [
+                        {
+                            "media": "rmol.co",
+                            "size": 43,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "31",
+                            "name": "#71bef3~-"
+                        }
+                    ],
+                    "id": "17719"
+                },
+                {
+                    "name": "#71bef3~detik.com",
+                    "children": [
+                        {
+                            "media": "detik.com",
+                            "size": 39,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "34",
+                            "name": "#71bef3~Dewi Rachmat Kusuma"
+                        },
+                        {
+                            "media": "detik.com",
+                            "size": 24,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "54",
+                            "name": "#71bef3~Angga Aliya"
+                        },
+                        {
+                            "media": "detik.com",
+                            "size": 18,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "67",
+                            "name": "#71bef3~Ayunda Windyastuti Savitri - detikNews"
+                        }
+                    ],
+                    "id": "17720"
+                },
+                {
+                    "name": "#ff9300~antaranews.com",
+                    "children": [
+                        {
+                            "media": "antaranews.com",
+                            "size": 37,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "37",
+                            "name": "#ff9300~Agus Salim"
+                        },
+                        {
+                            "media": "antaranews.com",
+                            "size": 24,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "55",
+                            "name": "#ff9300~Hanni Sofia Soepardi"
+                        },
+                        {
+                            "media": "antaranews.com",
+                            "size": 16,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "71",
+                            "name": "#ff9300~Joko Susilo"
+                        }
+                    ],
+                    "id": "17721"
+                },
+                {
+                    "name": "#ff9300~indopos.co.id",
+                    "children": [
+                        {
+                            "media": "indopos.co.id",
+                            "size": 33,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "40",
+                            "name": "#ff9300~Uploader Pratama"
+                        },
+                        {
+                            "media": "indopos.co.id",
+                            "size": 8,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "98",
+                            "name": "#ff9300~Uploader Aryo Kurniawan"
+                        }
+                    ],
+                    "id": "17722"
+                },
+                {
+                    "name": "#71bef3~sp.beritasatu.com",
+                    "children": [
+                        {
+                            "media": "sp.beritasatu.com",
+                            "size": 33,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "42",
+                            "name": "#71bef3~-"
+                        }
+                    ],
+                    "id": "17723"
+                },
+                {
+                    "name": "#71bef3~antaranews.com",
+                    "children": [
+                        {
+                            "media": "antaranews.com",
+                            "size": 31,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "45",
+                            "name": "#71bef3~Zubi Mahrofi"
+                        },
+                        {
+                            "media": "antaranews.com",
+                            "size": 5,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "122",
+                            "name": "#71bef3~-"
+                        },
+                        {
+                            "media": "antaranews.com",
+                            "size": 3,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "135",
+                            "name": "#71bef3~Indra Arief Pribadi"
+                        }
+                    ],
+                    "id": "17724"
+                },
+                {
+                    "name": "#2c4dc1~id.beritasatu.com",
+                    "children": [
+                        {
+                            "media": "id.beritasatu.com",
+                            "size": 30,
+                            "color": "#2c4dc1",
+                            "topic": "Paket Kebijakan Ekonomi",
+                            "id": "46",
+                            "name": "#2c4dc1~-"
+                        }
+                    ],
+                    "id": "17725"
+                },
+                {
+                    "name": "#71bef3~sindonews.com",
+                    "children": [
+                        {
+                            "media": "sindonews.com",
+                            "size": 30,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "47",
+                            "name": "#71bef3~Anto Kurniawan"
+                        },
+                        {
+                            "media": "sindonews.com",
+                            "size": 28,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "49",
+                            "name": "#71bef3~Yanuar Riezqi Yovanda"
+                        },
+                        {
+                            "media": "sindonews.com",
+                            "size": 21,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "59",
+                            "name": "#71bef3~Izzudin"
+                        }
+                    ],
+                    "id": "17726"
+                },
+                {
+                    "name": "#ff9300~poskotanews.com",
+                    "children": [
+                        {
+                            "media": "poskotanews.com",
+                            "size": 26,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "50",
+                            "name": "#ff9300~-"
+                        },
+                        {
+                            "media": "poskotanews.com",
+                            "size": 6,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "104",
+                            "name": "#ff9300~1"
+                        }
+                    ],
+                    "id": "17727"
+                },
+                {
+                    "name": "#ff9300~viva.co.id",
+                    "children": [
+                        {
+                            "media": "viva.co.id",
+                            "size": 26,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "51",
+                            "name": "#ff9300~Oleh :        Ezra Natalyn"
+                        },
+                        {
+                            "media": "viva.co.id",
+                            "size": 15,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "75",
+                            "name": "#ff9300~Oleh :        Eko Priliawito, Agus Rahmat"
+                        },
+                        {
+                            "media": "viva.co.id",
+                            "size": 13,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "83",
+                            "name": "#ff9300~Oleh :        Suryanta Bakti Susila, Agus Rahmat"
+                        }
+                    ],
+                    "id": "17728"
+                },
+                {
+                    "name": "#71bef3~beritasatu.com",
+                    "children": [
+                        {
+                            "media": "beritasatu.com",
+                            "size": 25,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "52",
+                            "name": "#71bef3~Faisal Maliki Baskoro/FMB"
+                        },
+                        {
+                            "media": "beritasatu.com",
+                            "size": 20,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "63",
+                            "name": "#71bef3~Whisnu Bagus Prasetyo/WBP"
+                        },
+                        {
+                            "media": "beritasatu.com",
+                            "size": 17,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "68",
+                            "name": "#71bef3~Paulus Nitbani/PCN"
+                        }
+                    ],
+                    "id": "17729"
+                },
+                {
+                    "name": "#71bef3~kompas.com",
+                    "children": [
+                        {
+                            "media": "kompas.com",
+                            "size": 24,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "56",
+                            "name": "#71bef3~Editor\n                                    : Bambang Priyo Jatmiko"
+                        },
+                        {
+                            "media": "kompas.com",
+                            "size": 22,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "58",
+                            "name": "#71bef3~Editor\n                                    : Erlangga Djumena"
+                        },
+                        {
+                            "media": "kompas.com",
+                            "size": 10,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "93",
+                            "name": "#71bef3~Editor\n                                            : Ana Shofiana Syatiri"
+                        }
+                    ],
+                    "id": "17730"
+                },
+                {
+                    "name": "#71bef3~jpnn.com",
+                    "children": [
+                        {
+                            "media": "jpnn.com",
+                            "size": 23,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "57",
+                            "name": "#71bef3~-"
+                        },
+                        {
+                            "media": "jpnn.com",
+                            "size": 5,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "116",
+                            "name": "#71bef3~(fat/jpnn)"
+                        },
+                        {
+                            "media": "jpnn.com",
+                            "size": 4,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "129",
+                            "name": "#71bef3~(gil/jpnn)"
+                        }
+                    ],
+                    "id": "17731"
+                },
+                {
+                    "name": "#71bef3~merdeka.com",
+                    "children": [
+                        {
+                            "media": "merdeka.com",
+                            "size": 20,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "60",
+                            "name": "#71bef3~Sumber :"
+                        },
+                        {
+                            "media": "merdeka.com",
+                            "size": 13,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "86",
+                            "name": "#71bef3~Reporter : Novita Intan Sari"
+                        },
+                        {
+                            "media": "merdeka.com",
+                            "size": 12,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "89",
+                            "name": "#71bef3~Reporter : Idris Rusadi Putra"
+                        }
+                    ],
+                    "id": "17732"
+                },
+                {
+                    "name": "#ff9300~beritasatu.com",
+                    "children": [
+                        {
+                            "media": "beritasatu.com",
+                            "size": 20,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "62",
+                            "name": "#ff9300~Novy Lumanauw/FMB"
+                        },
+                        {
+                            "media": "beritasatu.com",
+                            "size": 20,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "64",
+                            "name": "#ff9300~Carlos KY Paath/YUD"
+                        },
+                        {
+                            "media": "beritasatu.com",
+                            "size": 17,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "69",
+                            "name": "#ff9300~Carlos KY Paath/PCN"
+                        }
+                    ],
+                    "id": "17733"
+                },
+                {
+                    "name": "#ff9300~cnnindonesia.com",
+                    "children": [
+                        {
+                            "media": "cnnindonesia.com",
+                            "size": 19,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "65",
+                            "name": "#ff9300~Resty Armenia"
+                        },
+                        {
+                            "media": "cnnindonesia.com",
+                            "size": 6,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "103",
+                            "name": "#ff9300~Christie Stefanie"
+                        },
+                        {
+                            "media": "cnnindonesia.com",
+                            "size": 5,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "117",
+                            "name": "#ff9300~Abi Sarwanto"
+                        }
+                    ],
+                    "id": "17734"
+                },
+                {
+                    "name": "#71bef3~okezone.com",
+                    "children": [
+                        {
+                            "media": "okezone.com",
+                            "size": 19,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "66",
+                            "name": "#71bef3~Martin Bagya Kertiyasa"
+                        },
+                        {
+                            "media": "okezone.com",
+                            "size": 14,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "79",
+                            "name": "#71bef3~Danang Sugianto"
+                        },
+                        {
+                            "media": "okezone.com",
+                            "size": 13,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "82",
+                            "name": "#71bef3~2"
+                        }
+                    ],
+                    "id": "17735"
+                },
+                {
+                    "name": "#ff9300~liputan6.com",
+                    "children": [
+                        {
+                            "media": "liputan6.com",
+                            "size": 16,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "70",
+                            "name": "#ff9300~Liputan6"
+                        },
+                        {
+                            "media": "liputan6.com",
+                            "size": 15,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "73",
+                            "name": "#ff9300~Fiki Ariyanti"
+                        },
+                        {
+                            "media": "liputan6.com",
+                            "size": 13,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "87",
+                            "name": "#ff9300~Luqman Rimadi"
+                        }
+                    ],
+                    "id": "17736"
+                },
+                {
+                    "name": "#2c4dc1~inilah.com",
+                    "children": [
+                        {
+                            "media": "inilah.com",
+                            "size": 15,
+                            "color": "#2c4dc1",
+                            "topic": "Paket Kebijakan Ekonomi",
+                            "id": "76",
+                            "name": "#2c4dc1~Oleh : -"
+                        },
+                        {
+                            "media": "inilah.com",
+                            "size": 5,
+                            "color": "#2c4dc1",
+                            "topic": "Paket Kebijakan Ekonomi",
+                            "id": "119",
+                            "name": "#2c4dc1~Oleh : M fadil djailani"
+                        },
+                        {
+                            "media": "inilah.com",
+                            "size": 2,
+                            "color": "#2c4dc1",
+                            "topic": "Paket Kebijakan Ekonomi",
+                            "id": "145",
+                            "name": "#2c4dc1~Oleh : Ranto rajagukguk"
+                        }
+                    ],
+                    "id": "17737"
+                },
+                {
+                    "name": "#71bef3~tribunnews.com",
+                    "children": [
+                        {
+                            "media": "tribunnews.com",
+                            "size": 15,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "77",
+                            "name": "#71bef3~Editor: Hendra Gunawan"
+                        },
+                        {
+                            "media": "tribunnews.com",
+                            "size": 13,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "85",
+                            "name": "#71bef3~Editor: Dewi Agustina"
+                        },
+                        {
+                            "media": "tribunnews.com",
+                            "size": 8,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "97",
+                            "name": "#71bef3~Editor: Sanusi"
+                        }
+                    ],
+                    "id": "17738"
+                },
+                {
+                    "name": "#71bef3~poskotanews.com",
+                    "children": [
+                        {
+                            "media": "poskotanews.com",
+                            "size": 13,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "81",
+                            "name": "#71bef3~-"
+                        },
+                        {
+                            "media": "poskotanews.com",
+                            "size": 2,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "143",
+                            "name": "#71bef3~1"
+                        }
+                    ],
+                    "id": "17739"
+                },
+                {
+                    "name": "#71bef3~republika.co.id",
+                    "children": [
+                        {
+                            "media": "republika.co.id",
+                            "size": 13,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "84",
+                            "name": "#71bef3~Red: Nidia Zuraya"
+                        },
+                        {
+                            "media": "republika.co.id",
+                            "size": 9,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "94",
+                            "name": "#71bef3~Red: Nur Aini"
+                        },
+                        {
+                            "media": "republika.co.id",
+                            "size": 5,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "118",
+                            "name": "#71bef3~Red: Ani Nursalikah"
+                        }
+                    ],
+                    "id": "17740"
+                },
+                {
+                    "name": "#71bef3~liputan6.com",
+                    "children": [
+                        {
+                            "media": "liputan6.com",
+                            "size": 12,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "88",
+                            "name": "#71bef3~Agustina Melani"
+                        },
+                        {
+                            "media": "liputan6.com",
+                            "size": 6,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "108",
+                            "name": "#71bef3~Septian Deny"
+                        },
+                        {
+                            "media": "liputan6.com",
+                            "size": 5,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "114",
+                            "name": "#71bef3~Fiki Ariyanti"
+                        }
+                    ],
+                    "id": "17741"
+                },
+                {
+                    "name": "#2c4dc1~antaranews.com",
+                    "children": [
+                        {
+                            "media": "antaranews.com",
+                            "size": 11,
+                            "color": "#2c4dc1",
+                            "topic": "Paket Kebijakan Ekonomi",
+                            "id": "90",
+                            "name": "#2c4dc1~Zubi Mahrofi"
+                        },
+                        {
+                            "media": "antaranews.com",
+                            "size": 2,
+                            "color": "#2c4dc1",
+                            "topic": "Paket Kebijakan Ekonomi",
+                            "id": "153",
+                            "name": "#2c4dc1~Agus Salim"
+                        },
+                        {
+                            "media": "antaranews.com",
+                            "size": 1,
+                            "color": "#2c4dc1",
+                            "topic": "Paket Kebijakan Ekonomi",
+                            "id": "175",
+                            "name": "#2c4dc1~Ade Irma Junida"
+                        }
+                    ],
+                    "id": "17742"
+                },
+                {
+                    "name": "#2c4dc1~detik.com",
+                    "children": [
+                        {
+                            "media": "detik.com",
+                            "size": 11,
+                            "color": "#2c4dc1",
+                            "topic": "Paket Kebijakan Ekonomi",
+                            "id": "91",
+                            "name": "#2c4dc1~Maikel Jefriando"
+                        },
+                        {
+                            "media": "detik.com",
+                            "size": 6,
+                            "color": "#2c4dc1",
+                            "topic": "Paket Kebijakan Ekonomi",
+                            "id": "107",
+                            "name": "#2c4dc1~Dewi Rachmat Kusuma"
+                        },
+                        {
+                            "media": "detik.com",
+                            "size": 4,
+                            "color": "#2c4dc1",
+                            "topic": "Paket Kebijakan Ekonomi",
+                            "id": "125",
+                            "name": "#2c4dc1~Lani Pujiastuti"
+                        }
+                    ],
+                    "id": "17743"
+                },
+                {
+                    "name": "#2c4dc1~rmol.co",
+                    "children": [
+                        {
+                            "media": "rmol.co",
+                            "size": 10,
+                            "color": "#2c4dc1",
+                            "topic": "Paket Kebijakan Ekonomi",
+                            "id": "92",
+                            "name": "#2c4dc1~-"
+                        }
+                    ],
+                    "id": "17744"
+                },
+                {
+                    "name": "#2c4dc1~sindonews.com",
+                    "children": [
+                        {
+                            "media": "sindonews.com",
+                            "size": 9,
+                            "color": "#2c4dc1",
+                            "topic": "Paket Kebijakan Ekonomi",
+                            "id": "95",
+                            "name": "#2c4dc1~Lily Rusna Fajriah"
+                        },
+                        {
+                            "media": "sindonews.com",
+                            "size": 3,
+                            "color": "#2c4dc1",
+                            "topic": "Paket Kebijakan Ekonomi",
+                            "id": "138",
+                            "name": "#2c4dc1~Yanuar Riezqi Yovanda"
+                        },
+                        {
+                            "media": "sindonews.com",
+                            "size": 1,
+                            "color": "#2c4dc1",
+                            "topic": "Paket Kebijakan Ekonomi",
+                            "id": "172",
+                            "name": "#2c4dc1~Dony Lesmana"
+                        }
+                    ],
+                    "id": "17745"
+                },
+                {
+                    "name": "#71bef3~teropongsenayan.com",
+                    "children": [
+                        {
+                            "media": "teropongsenayan.com",
+                            "size": 8,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "96",
+                            "name": "#71bef3~-"
+                        },
+                        {
+                            "media": "teropongsenayan.com",
+                            "size": 1,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "156",
+                            "name": "#71bef3~1"
+                        }
+                    ],
+                    "id": "17746"
+                },
+                {
+                    "name": "#2c4dc1~tempo.co",
+                    "children": [
+                        {
+                            "media": "tempo.co",
+                            "size": 7,
+                            "color": "#2c4dc1",
+                            "topic": "Paket Kebijakan Ekonomi",
+                            "id": "99",
+                            "name": "#2c4dc1~-"
+                        },
+                        {
+                            "media": "tempo.co",
+                            "size": 4,
+                            "color": "#2c4dc1",
+                            "topic": "Paket Kebijakan Ekonomi",
+                            "id": "128",
+                            "name": "#2c4dc1~ALI HIDAYAT"
+                        },
+                        {
+                            "media": "tempo.co",
+                            "size": 3,
+                            "color": "#2c4dc1",
+                            "topic": "Paket Kebijakan Ekonomi",
+                            "id": "131",
+                            "name": "#2c4dc1~LARISSA HUDA"
+                        }
+                    ],
+                    "id": "17747"
+                },
+                {
+                    "name": "#71bef3~metrotvnews.com",
+                    "children": [
+                        {
+                            "media": "metrotvnews.com",
+                            "size": 6,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "100",
+                            "name": "#71bef3~Dian Ihsan Siregar"
+                        },
+                        {
+                            "media": "metrotvnews.com",
+                            "size": 2,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "144",
+                            "name": "#71bef3~Arif Wicaksono"
+                        },
+                        {
+                            "media": "metrotvnews.com",
+                            "size": 2,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "146",
+                            "name": "#71bef3~LB Ciputri Hutabarat"
+                        }
+                    ],
+                    "id": "17748"
+                },
+                {
+                    "name": "#2c4dc1~beritasatu.com",
+                    "children": [
+                        {
+                            "media": "beritasatu.com",
+                            "size": 6,
+                            "color": "#2c4dc1",
+                            "topic": "Paket Kebijakan Ekonomi",
+                            "id": "105",
+                            "name": "#2c4dc1~Tri Listiyarini/TL"
+                        },
+                        {
+                            "media": "beritasatu.com",
+                            "size": 5,
+                            "color": "#2c4dc1",
+                            "topic": "Paket Kebijakan Ekonomi",
+                            "id": "115",
+                            "name": "#2c4dc1~Nasori/NAS"
+                        },
+                        {
+                            "media": "beritasatu.com",
+                            "size": 2,
+                            "color": "#2c4dc1",
+                            "topic": "Paket Kebijakan Ekonomi",
+                            "id": "152",
+                            "name": "#2c4dc1~Fajar Widhiyanto/Windarto/FW"
+                        }
+                    ],
+                    "id": "17749"
+                },
+                {
+                    "name": "#71bef3~indopos.co.id",
+                    "children": [
+                        {
+                            "media": "indopos.co.id",
+                            "size": 6,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "106",
+                            "name": "#71bef3~Uploader Pratama"
+                        },
+                        {
+                            "media": "indopos.co.id",
+                            "size": 1,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "174",
+                            "name": "#71bef3~Uploader Aryo Kurniawan"
+                        }
+                    ],
+                    "id": "17750"
+                },
+                {
+                    "name": "#2c4dc1~liputan6.com",
+                    "children": [
+                        {
+                            "media": "liputan6.com",
+                            "size": 5,
+                            "color": "#2c4dc1",
+                            "topic": "Paket Kebijakan Ekonomi",
+                            "id": "109",
+                            "name": "#2c4dc1~Achmad Dwi Afriyadi"
+                        },
+                        {
+                            "media": "liputan6.com",
+                            "size": 3,
+                            "color": "#2c4dc1",
+                            "topic": "Paket Kebijakan Ekonomi",
+                            "id": "137",
+                            "name": "#2c4dc1~Ilyas Istianur Praditya"
+                        },
+                        {
+                            "media": "liputan6.com",
+                            "size": 1,
+                            "color": "#2c4dc1",
+                            "topic": "Paket Kebijakan Ekonomi",
+                            "id": "170",
+                            "name": "#2c4dc1~Agustina Melani"
+                        }
+                    ],
+                    "id": "17751"
+                },
+                {
+                    "name": "#71bef3~viva.co.id",
+                    "children": [
+                        {
+                            "media": "viva.co.id",
+                            "size": 5,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "110",
+                            "name": "#71bef3~Oleh :        Rochimawati, Romys Binekasri"
+                        },
+                        {
+                            "media": "viva.co.id",
+                            "size": 5,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "112",
+                            "name": "#71bef3~Oleh :        Daurina Lestari, Romys Binekasri"
+                        },
+                        {
+                            "media": "viva.co.id",
+                            "size": 5,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "121",
+                            "name": "#71bef3~Oleh :        Daurina Lestari"
+                        }
+                    ],
+                    "id": "17752"
+                },
+                {
+                    "name": "#ff9300~metrotvnews.com",
+                    "children": [
+                        {
+                            "media": "metrotvnews.com",
+                            "size": 5,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "111",
+                            "name": "#ff9300~Desi Angriani"
+                        },
+                        {
+                            "media": "metrotvnews.com",
+                            "size": 4,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "124",
+                            "name": "#ff9300~Yogi Bayu Aji"
+                        },
+                        {
+                            "media": "metrotvnews.com",
+                            "size": 3,
+                            "color": "#ff9300",
+                            "topic": "Jokowi",
+                            "id": "139",
+                            "name": "#ff9300~Achmad Zulfikar Fazli"
+                        }
+                    ],
+                    "id": "17753"
+                },
+                {
+                    "name": "#2c4dc1~republika.co.id",
+                    "children": [
+                        {
+                            "media": "republika.co.id",
+                            "size": 5,
+                            "color": "#2c4dc1",
+                            "topic": "Paket Kebijakan Ekonomi",
+                            "id": "113",
+                            "name": "#2c4dc1~Red: Nidia Zuraya"
+                        },
+                        {
+                            "media": "republika.co.id",
+                            "size": 2,
+                            "color": "#2c4dc1",
+                            "topic": "Paket Kebijakan Ekonomi",
+                            "id": "151",
+                            "name": "#2c4dc1~Red: Nur Aini"
+                        },
+                        {
+                            "media": "republika.co.id",
+                            "size": 1,
+                            "color": "#2c4dc1",
+                            "topic": "Paket Kebijakan Ekonomi",
+                            "id": "169",
+                            "name": "#2c4dc1~Red: Ani Nursalikah"
+                        }
+                    ],
+                    "id": "17754"
+                },
+                {
+                    "name": "#2c4dc1~bisnis.com",
+                    "children": [
+                        {
+                            "media": "bisnis.com",
+                            "size": 4,
+                            "color": "#2c4dc1",
+                            "topic": "Paket Kebijakan Ekonomi",
+                            "id": "123",
+                            "name": "#2c4dc1~Demis Rizky Gosta"
+                        },
+                        {
+                            "media": "bisnis.com",
+                            "size": 3,
+                            "color": "#2c4dc1",
+                            "topic": "Paket Kebijakan Ekonomi",
+                            "id": "132",
+                            "name": "#2c4dc1~Muhammad Abdi Amna"
+                        },
+                        {
+                            "media": "bisnis.com",
+                            "size": 3,
+                            "color": "#2c4dc1",
+                            "topic": "Paket Kebijakan Ekonomi",
+                            "id": "136",
+                            "name": "#2c4dc1~Priyo Susilo"
+                        }
+                    ],
+                    "id": "17755"
+                },
+                {
+                    "name": "#2c4dc1~okezone.com",
+                    "children": [
+                        {
+                            "media": "okezone.com",
+                            "size": 4,
+                            "color": "#2c4dc1",
+                            "topic": "Paket Kebijakan Ekonomi",
+                            "id": "126",
+                            "name": "#2c4dc1~0"
+                        },
+                        {
+                            "media": "okezone.com",
+                            "size": 3,
+                            "color": "#2c4dc1",
+                            "topic": "Paket Kebijakan Ekonomi",
+                            "id": "133",
+                            "name": "#2c4dc1~Dani Jumadil Akhir"
+                        },
+                        {
+                            "media": "okezone.com",
+                            "size": 3,
+                            "color": "#2c4dc1",
+                            "topic": "Paket Kebijakan Ekonomi",
+                            "id": "134",
+                            "name": "#2c4dc1~Danang Sugianto"
+                        }
+                    ],
+                    "id": "17756"
+                },
+                {
+                    "name": "#2c4dc1~merdeka.com",
+                    "children": [
+                        {
+                            "media": "merdeka.com",
+                            "size": 4,
+                            "color": "#2c4dc1",
+                            "topic": "Paket Kebijakan Ekonomi",
+                            "id": "127",
+                            "name": "#2c4dc1~Reporter : Sri Wiyanti"
+                        },
+                        {
+                            "media": "merdeka.com",
+                            "size": 2,
+                            "color": "#2c4dc1",
+                            "topic": "Paket Kebijakan Ekonomi",
+                            "id": "148",
+                            "name": "#2c4dc1~Reporter : Siti Nur Azzura"
+                        },
+                        {
+                            "media": "merdeka.com",
+                            "size": 1,
+                            "color": "#2c4dc1",
+                            "topic": "Paket Kebijakan Ekonomi",
+                            "id": "157",
+                            "name": "#2c4dc1~Reporter : Hana Adi Perdana"
+                        }
+                    ],
+                    "id": "17757"
+                },
+                {
+                    "name": "#2c4dc1~kompas.com",
+                    "children": [
+                        {
+                            "media": "kompas.com",
+                            "size": 4,
+                            "color": "#2c4dc1",
+                            "topic": "Paket Kebijakan Ekonomi",
+                            "id": "130",
+                            "name": "#2c4dc1~Editor\n                                    : Erlangga Djumena"
+                        },
+                        {
+                            "media": "kompas.com",
+                            "size": 3,
+                            "color": "#2c4dc1",
+                            "topic": "Paket Kebijakan Ekonomi",
+                            "id": "141",
+                            "name": "#2c4dc1~Editor\n                                    : Bambang Priyo Jatmiko"
+                        },
+                        {
+                            "media": "kompas.com",
+                            "size": 1,
+                            "color": "#2c4dc1",
+                            "topic": "Paket Kebijakan Ekonomi",
+                            "id": "159",
+                            "name": "#2c4dc1~Editor\n                                            : Sabrina Asril"
+                        }
+                    ],
+                    "id": "17758"
+                },
+                {
+                    "name": "#2c4dc1~teropongsenayan.com",
+                    "children": [
+                        {
+                            "media": "teropongsenayan.com",
+                            "size": 2,
+                            "color": "#2c4dc1",
+                            "topic": "Paket Kebijakan Ekonomi",
+                            "id": "142",
+                            "name": "#2c4dc1~-"
+                        }
+                    ],
+                    "id": "17759"
+                },
+                {
+                    "name": "#71bef3~cnnindonesia.com",
+                    "children": [
+                        {
+                            "media": "cnnindonesia.com",
+                            "size": 2,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "147",
+                            "name": "#71bef3~Giras Pasopati"
+                        },
+                        {
+                            "media": "cnnindonesia.com",
+                            "size": 1,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "160",
+                            "name": "#71bef3~Agust Supriadi"
+                        },
+                        {
+                            "media": "cnnindonesia.com",
+                            "size": 1,
+                            "color": "#71bef3",
+                            "topic": "Rupiah",
+                            "id": "176",
+                            "name": "#71bef3~Aghnia Adzkia"
+                        }
+                    ],
+                    "id": "17760"
+                },
+                {
+                    "name": "#2c4dc1~viva.co.id",
+                    "children": [
+                        {
+                            "media": "viva.co.id",
+                            "size": 2,
+                            "color": "#2c4dc1",
+                            "topic": "Paket Kebijakan Ekonomi",
+                            "id": "149",
+                            "name": "#2c4dc1~Oleh :        Raden Jihad Akbar, Fikri Halim"
+                        },
+                        {
+                            "media": "viva.co.id",
+                            "size": 2,
+                            "color": "#2c4dc1",
+                            "topic": "Paket Kebijakan Ekonomi",
+                            "id": "150",
+                            "name": "#2c4dc1~Oleh :        Raden Jihad Akbar, Chandra G. Asmara"
+                        },
+                        {
+                            "media": "viva.co.id",
+                            "size": 2,
+                            "color": "#2c4dc1",
+                            "topic": "Paket Kebijakan Ekonomi",
+                            "id": "154",
+                            "name": "#2c4dc1~Oleh :        Daurina Lestari, Rizki Aulia Rachman"
+                        }
+                    ],
+                    "id": "17761"
+                },
+                {
+                    "name": "#2c4dc1~jpnn.com",
+                    "children": [
+                        {
+                            "media": "jpnn.com",
+                            "size": 1,
+                            "color": "#2c4dc1",
+                            "topic": "Paket Kebijakan Ekonomi",
+                            "id": "155",
+                            "name": "#2c4dc1~(fat/jpnn)"
+                        },
+                        {
+                            "media": "jpnn.com",
+                            "size": 1,
+                            "color": "#2c4dc1",
+                            "topic": "Paket Kebijakan Ekonomi",
+                            "id": "158",
+                            "name": "#2c4dc1~-"
+                        },
+                        {
+                            "media": "jpnn.com",
+                            "size": 1,
+                            "color": "#2c4dc1",
+                            "topic": "Paket Kebijakan Ekonomi",
+                            "id": "171",
+                            "name": "#2c4dc1~(owi)"
+                        }
+                    ],
+                    "id": "17762"
+                },
+                {
+                    "name": "#2c4dc1~cnnindonesia.com",
+                    "children": [
+                        {
+                            "media": "cnnindonesia.com",
+                            "size": 1,
+                            "color": "#2c4dc1",
+                            "topic": "Paket Kebijakan Ekonomi",
+                            "id": "161",
+                            "name": "#2c4dc1~Galih Gumelar"
+                        },
+                        {
+                            "media": "cnnindonesia.com",
+                            "size": 1,
+                            "color": "#2c4dc1",
+                            "topic": "Paket Kebijakan Ekonomi",
+                            "id": "163",
+                            "name": "#2c4dc1~Elisa Valenta Sari"
+                        },
+                        {
+                            "media": "cnnindonesia.com",
+                            "size": 1,
+                            "color": "#2c4dc1",
+                            "topic": "Paket Kebijakan Ekonomi",
+                            "id": "164",
+                            "name": "#2c4dc1~Diemas Kresna Duta"
+                        }
+                    ],
+                    "id": "17763"
+                },
+                {
+                    "name": "#2c4dc1~tribunnews.com",
+                    "children": [
+                        {
+                            "media": "tribunnews.com",
+                            "size": 1,
+                            "color": "#2c4dc1",
+                            "topic": "Paket Kebijakan Ekonomi",
+                            "id": "162",
+                            "name": "#2c4dc1~-"
+                        },
+                        {
+                            "media": "tribunnews.com",
+                            "size": 1,
+                            "color": "#2c4dc1",
+                            "topic": "Paket Kebijakan Ekonomi",
+                            "id": "165",
+                            "name": "#2c4dc1~Editor: Adi Suhendi"
+                        },
+                        {
+                            "media": "tribunnews.com",
+                            "size": 1,
+                            "color": "#2c4dc1",
+                            "topic": "Paket Kebijakan Ekonomi",
+                            "id": "166",
+                            "name": "#2c4dc1~Editor: Dewi Agustina"
+                        }
+                    ],
+                    "id": "17764"
+                },
+                {
+                    "name": "#2c4dc1~sp.beritasatu.com",
+                    "children": [
+                        {
+                            "media": "sp.beritasatu.com",
+                            "size": 1,
+                            "color": "#2c4dc1",
+                            "topic": "Paket Kebijakan Ekonomi",
+                            "id": "168",
+                            "name": "#2c4dc1~-"
+                        }
+                    ],
+                    "id": "17765"
+                },
+                {
+                    "name": "#2c4dc1~indopos.co.id",
+                    "children": [
+                        {
+                            "media": "indopos.co.id",
+                            "size": 1,
+                            "color": "#2c4dc1",
+                            "topic": "Paket Kebijakan Ekonomi",
+                            "id": "173",
+                            "name": "#2c4dc1~Uploader Pratama"
+                        }
+                    ],
+                    "id": "17766"
+                }
+            ]
+        }
+    },
+    "topic" : {
+        "fields" : ["media", "cnt", "media_category"],
+        "raws" : [
+            ["detik.com", "2015-12-18", 39],
+            ["detik.com", "2015-12-19", 13],
+            ["detik.com", "2015-12-20", 10],
+            ["detik.com", "2015-12-21", 45],
+            ["detik.com", "2015-12-22", 57],
+            ["detik.com", "2015-12-23", 53],
+            ["detik.com", "2015-12-24", 3],
+            ["detik.com", "2015-12-25", 11],
+            ["detik.com", "2015-12-26", 6],
+            ["detik.com", "2015-12-27", 8],
+            ["detik.com", "2015-12-28", 48],
+            ["detik.com", "2015-12-29", 62],
+            ["detik.com", "2015-12-30", 42],
+            ["detik.com", "2015-12-31", 37],
+            ["detik.com", "2016-01-01", 18],
+            ["detik.com", "2016-01-02", 9],
+            ["detik.com", "2016-01-03", 8],
+            ["detik.com", "2016-01-04", 63],
+            ["detik.com", "2016-01-05", 36],
+            ["detik.com", "2016-01-06", 58],
+            ["detik.com", "2016-01-07", 38],
+            ["detik.com", "2016-01-08", 30],
+            ["detik.com", "2016-01-09", 13],
+            ["detik.com", "2016-01-10", 23],
+            ["detik.com", "2016-01-11", 26],
+            ["detik.com", "2016-01-12", 51],
+            ["detik.com", "2016-01-13", 35],
+            ["detik.com", "2016-01-14", 22],
+            ["detik.com", "2016-01-15", 24],
+            ["detik.com", "2016-01-16", 10],
+            ["inilah.com", "2015-12-18", 38],
+            ["inilah.com", "2015-12-19", 24],
+            ["inilah.com", "2015-12-20", 27],
+            ["inilah.com", "2015-12-21", 44],
+            ["inilah.com", "2015-12-22", 46],
+            ["inilah.com", "2015-12-23", 44],
+            ["inilah.com", "2015-12-24", 12],
+            ["inilah.com", "2015-12-25", 20],
+            ["inilah.com", "2015-12-26", 29],
+            ["inilah.com", "2015-12-27", 33],
+            ["inilah.com", "2015-12-28", 39],
+            ["inilah.com", "2015-12-29", 38],
+            ["inilah.com", "2015-12-30", 42],
+            ["inilah.com", "2015-12-31", 34],
+            ["inilah.com", "2016-01-01", 22],
+            ["inilah.com", "2016-01-02", 16],
+            ["inilah.com", "2016-01-03", 22],
+            ["inilah.com", "2016-01-04", 53],
+            ["inilah.com", "2016-01-05", 38],
+            ["inilah.com", "2016-01-06", 45],
+            ["inilah.com", "2016-01-07", 37],
+            ["inilah.com", "2016-01-08", 36],
+            ["inilah.com", "2016-01-09", 28],
+            ["inilah.com", "2016-01-10", 1],
+            ["inilah.com", "2016-01-11", 35],
+            ["inilah.com", "2016-01-12", 13],
+            ["inilah.com", "2016-01-13", 15],
+            ["inilah.com", "2016-01-14", 28],
+            ["inilah.com", "2016-01-15", 27],
+            ["inilah.com", "2016-01-16", 5],
+            ["republika.co.id", "2015-12-18", 36],
+            ["republika.co.id", "2015-12-19", 14],
+            ["republika.co.id", "2015-12-20", 6],
+            ["republika.co.id", "2015-12-21", 24],
+            ["republika.co.id", "2015-12-22", 44],
+            ["republika.co.id", "2015-12-23", 38],
+            ["republika.co.id", "2015-12-24", 11],
+            ["republika.co.id", "2015-12-25", 17],
+            ["republika.co.id", "2015-12-26", 17],
+            ["republika.co.id", "2015-12-27", 18],
+            ["republika.co.id", "2015-12-28", 34],
+            ["republika.co.id", "2015-12-29", 37],
+            ["republika.co.id", "2015-12-30", 27],
+            ["republika.co.id", "2015-12-31", 14],
+            ["republika.co.id", "2016-01-01", 22],
+            ["republika.co.id", "2016-01-02", 14],
+            ["republika.co.id", "2016-01-03", 10],
+            ["republika.co.id", "2016-01-04", 52],
+            ["republika.co.id", "2016-01-05", 48],
+            ["republika.co.id", "2016-01-06", 39],
+            ["republika.co.id", "2016-01-07", 29],
+            ["republika.co.id", "2016-01-08", 34],
+            ["republika.co.id", "2016-01-09", 16],
+            ["republika.co.id", "2016-01-10", 18],
+            ["republika.co.id", "2016-01-11", 32],
+            ["republika.co.id", "2016-01-12", 22],
+            ["republika.co.id", "2016-01-13", 32],
+            ["republika.co.id", "2016-01-14", 29],
+            ["republika.co.id", "2016-01-15", 26],
+            ["republika.co.id", "2016-01-16", 4],
+            ["rmol.co", "2015-12-18", 16],
+            ["rmol.co", "2015-12-19", 30],
+            ["rmol.co", "2015-12-20", 24],
+            ["rmol.co", "2015-12-21", 13],
+            ["rmol.co", "2015-12-22", 26],
+            ["rmol.co", "2015-12-23", 31],
+            ["rmol.co", "2015-12-24", 6],
+            ["rmol.co", "2015-12-25", 14],
+            ["rmol.co", "2015-12-26", 16],
+            ["rmol.co", "2015-12-27", 23],
+            ["rmol.co", "2015-12-28", 33],
+            ["rmol.co", "2015-12-29", 47],
+            ["rmol.co", "2015-12-30", 31],
+            ["rmol.co", "2015-12-31", 20],
+            ["rmol.co", "2016-01-01", 21],
+            ["rmol.co", "2016-01-02", 12],
+            ["rmol.co", "2016-01-03", 12],
+            ["rmol.co", "2016-01-04", 52],
+            ["rmol.co", "2016-01-05", 40],
+            ["rmol.co", "2016-01-06", 32],
+            ["rmol.co", "2016-01-07", 24],
+            ["rmol.co", "2016-01-08", 33],
+            ["rmol.co", "2016-01-09", 17],
+            ["rmol.co", "2016-01-10", 21],
+            ["rmol.co", "2016-01-11", 37],
+            ["rmol.co", "2016-01-12", 36],
+            ["rmol.co", "2016-01-13", 38],
+            ["rmol.co", "2016-01-14", 23],
+            ["rmol.co", "2016-01-15", 23],
+            ["rmol.co", "2016-01-16", 2],
+            ["beritasatu.com", "2015-12-18", 31],
+            ["beritasatu.com", "2015-12-19", 17],
+            ["beritasatu.com", "2015-12-20", 20],
+            ["beritasatu.com", "2015-12-21", 38],
+            ["beritasatu.com", "2015-12-22", 42],
+            ["beritasatu.com", "2015-12-23", 27],
+            ["beritasatu.com", "2015-12-24", 10],
+            ["beritasatu.com", "2015-12-25", 5],
+            ["beritasatu.com", "2015-12-26", 10],
+            ["beritasatu.com", "2015-12-27", 13],
+            ["beritasatu.com", "2015-12-28", 45],
+            ["beritasatu.com", "2015-12-29", 33],
+            ["beritasatu.com", "2015-12-30", 28],
+            ["beritasatu.com", "2015-12-31", 13],
+            ["beritasatu.com", "2016-01-01", 9],
+            ["beritasatu.com", "2016-01-02", 5],
+            ["beritasatu.com", "2016-01-03", 9],
+            ["beritasatu.com", "2016-01-04", 36],
+            ["beritasatu.com", "2016-01-05", 41],
+            ["beritasatu.com", "2016-01-06", 49],
+            ["beritasatu.com", "2016-01-07", 32],
+            ["beritasatu.com", "2016-01-08", 42],
+            ["beritasatu.com", "2016-01-09", 12],
+            ["beritasatu.com", "2016-01-10", 32],
+            ["beritasatu.com", "2016-01-11", 24],
+            ["beritasatu.com", "2016-01-12", 33],
+            ["beritasatu.com", "2016-01-13", 16],
+            ["beritasatu.com", "2016-01-14", 34],
+            ["beritasatu.com", "2016-01-15", 17],
+            ["beritasatu.com", "2016-01-16", 2],
+            ["tempo.co", "2015-12-18", 35],
+            ["tempo.co", "2015-12-19", 8],
+            ["tempo.co", "2015-12-20", 10],
+            ["tempo.co", "2015-12-21", 39],
+            ["tempo.co", "2015-12-22", 36],
+            ["tempo.co", "2015-12-23", 26],
+            ["tempo.co", "2015-12-24", 7],
+            ["tempo.co", "2015-12-25", 9],
+            ["tempo.co", "2015-12-26", 23],
+            ["tempo.co", "2015-12-27", 9],
+            ["tempo.co", "2015-12-28", 31],
+            ["tempo.co", "2015-12-29", 42],
+            ["tempo.co", "2015-12-30", 37],
+            ["tempo.co", "2015-12-31", 19],
+            ["tempo.co", "2016-01-01", 10],
+            ["tempo.co", "2016-01-02", 12],
+            ["tempo.co", "2016-01-03", 5],
+            ["tempo.co", "2016-01-04", 45],
+            ["tempo.co", "2016-01-05", 44],
+            ["tempo.co", "2016-01-06", 35],
+            ["tempo.co", "2016-01-07", 31],
+            ["tempo.co", "2016-01-08", 39],
+            ["tempo.co", "2016-01-09", 18],
+            ["tempo.co", "2016-01-10", 19],
+            ["tempo.co", "2016-01-11", 24],
+            ["tempo.co", "2016-01-12", 20],
+            ["tempo.co", "2016-01-13", 37],
+            ["tempo.co", "2016-01-14", 3],
+            ["tempo.co", "2016-01-15", 4],
+            ["tempo.co", "2016-01-16", 1],
+            ["sindonews.com", "2015-12-18", 32],
+            ["sindonews.com", "2015-12-19", 15],
+            ["sindonews.com", "2015-12-20", 15],
+            ["sindonews.com", "2015-12-21", 24],
+            ["sindonews.com", "2015-12-22", 37],
+            ["sindonews.com", "2015-12-23", 27],
+            ["sindonews.com", "2015-12-24", 8],
+            ["sindonews.com", "2015-12-25", 15],
+            ["sindonews.com", "2015-12-26", 8],
+            ["sindonews.com", "2015-12-27", 9],
+            ["sindonews.com", "2015-12-28", 38],
+            ["sindonews.com", "2015-12-29", 29],
+            ["sindonews.com", "2015-12-30", 24],
+            ["sindonews.com", "2015-12-31", 10],
+            ["sindonews.com", "2016-01-01", 8],
+            ["sindonews.com", "2016-01-02", 4],
+            ["sindonews.com", "2016-01-03", 1],
+            ["sindonews.com", "2016-01-04", 25],
+            ["sindonews.com", "2016-01-05", 26],
+            ["sindonews.com", "2016-01-06", 38],
+            ["sindonews.com", "2016-01-07", 13],
+            ["sindonews.com", "2016-01-08", 16],
+            ["sindonews.com", "2016-01-09", 19],
+            ["sindonews.com", "2016-01-10", 13],
+            ["sindonews.com", "2016-01-11", 15],
+            ["sindonews.com", "2016-01-12", 26],
+            ["sindonews.com", "2016-01-13", 13],
+            ["sindonews.com", "2016-01-14", 13],
+            ["sindonews.com", "2016-01-15", 6],
+            ["sindonews.com", "2016-01-16", 3],
+            ["merdeka.com", "2015-12-18", 25],
+            ["merdeka.com", "2015-12-19", 7],
+            ["merdeka.com", "2015-12-20", 10],
+            ["merdeka.com", "2015-12-21", 16],
+            ["merdeka.com", "2015-12-22", 18],
+            ["merdeka.com", "2015-12-23", 28],
+            ["merdeka.com", "2015-12-24", 9],
+            ["merdeka.com", "2015-12-25", 13],
+            ["merdeka.com", "2015-12-26", 14],
+            ["merdeka.com", "2015-12-27", 9],
+            ["merdeka.com", "2015-12-28", 31],
+            ["merdeka.com", "2015-12-29", 27],
+            ["merdeka.com", "2015-12-30", 16],
+            ["merdeka.com", "2015-12-31", 11],
+            ["merdeka.com", "2016-01-01", 23],
+            ["merdeka.com", "2016-01-02", 17],
+            ["merdeka.com", "2016-01-03", 13],
+            ["merdeka.com", "2016-01-04", 21],
+            ["merdeka.com", "2016-01-05", 33],
+            ["merdeka.com", "2016-01-06", 28],
+            ["merdeka.com", "2016-01-07", 16],
+            ["merdeka.com", "2016-01-08", 32],
+            ["merdeka.com", "2016-01-09", 11],
+            ["merdeka.com", "2016-01-10", 16],
+            ["merdeka.com", "2016-01-11", 19],
+            ["merdeka.com", "2016-01-12", 24],
+            ["merdeka.com", "2016-01-13", 22],
+            ["merdeka.com", "2016-01-14", 7],
+            ["merdeka.com", "2016-01-15", 5],
+            ["merdeka.com", "2016-01-16", 1],
+            ["tribunnews.com", "2015-12-18", 23],
+            ["tribunnews.com", "2015-12-19", 11],
+            ["tribunnews.com", "2015-12-20", 13],
+            ["tribunnews.com", "2015-12-21", 13],
+            ["tribunnews.com", "2015-12-22", 14],
+            ["tribunnews.com", "2015-12-23", 23],
+            ["tribunnews.com", "2015-12-24", 4],
+            ["tribunnews.com", "2015-12-25", 10],
+            ["tribunnews.com", "2015-12-26", 7],
+            ["tribunnews.com", "2015-12-27", 23],
+            ["tribunnews.com", "2015-12-28", 25],
+            ["tribunnews.com", "2015-12-29", 28],
+            ["tribunnews.com", "2015-12-30", 19],
+            ["tribunnews.com", "2015-12-31", 13],
+            ["tribunnews.com", "2016-01-01", 12],
+            ["tribunnews.com", "2016-01-02", 4],
+            ["tribunnews.com", "2016-01-03", 14],
+            ["tribunnews.com", "2016-01-04", 28],
+            ["tribunnews.com", "2016-01-05", 28],
+            ["tribunnews.com", "2016-01-06", 20],
+            ["tribunnews.com", "2016-01-07", 17],
+            ["tribunnews.com", "2016-01-08", 25],
+            ["tribunnews.com", "2016-01-09", 18],
+            ["tribunnews.com", "2016-01-10", 34],
+            ["tribunnews.com", "2016-01-11", 19],
+            ["tribunnews.com", "2016-01-12", 19],
+            ["tribunnews.com", "2016-01-13", 14],
+            ["tribunnews.com", "2016-01-14", 13],
+            ["tribunnews.com", "2016-01-15", 13],
+            ["tribunnews.com", "2016-01-16", 3],
+            ["jpnn.com", "2015-12-18", 17],
+            ["jpnn.com", "2015-12-19", 9],
+            ["jpnn.com", "2015-12-20", 7],
+            ["jpnn.com", "2015-12-21", 18],
+            ["jpnn.com", "2015-12-22", 13],
+            ["jpnn.com", "2015-12-23", 13],
+            ["jpnn.com", "2015-12-24", 4],
+            ["jpnn.com", "2015-12-25", 8],
+            ["jpnn.com", "2015-12-26", 11],
+            ["jpnn.com", "2015-12-27", 14],
+            ["jpnn.com", "2015-12-28", 29],
+            ["jpnn.com", "2015-12-29", 33],
+            ["jpnn.com", "2015-12-30", 12],
+            ["jpnn.com", "2015-12-31", 19],
+            ["jpnn.com", "2016-01-01", 8],
+            ["jpnn.com", "2016-01-02", 9],
+            ["jpnn.com", "2016-01-03", 12],
+            ["jpnn.com", "2016-01-04", 25],
+            ["jpnn.com", "2016-01-05", 18],
+            ["jpnn.com", "2016-01-06", 25],
+            ["jpnn.com", "2016-01-07", 21],
+            ["jpnn.com", "2016-01-08", 30],
+            ["jpnn.com", "2016-01-09", 12],
+            ["jpnn.com", "2016-01-10", 33],
+            ["jpnn.com", "2016-01-11", 19],
+            ["jpnn.com", "2016-01-12", 24],
+            ["jpnn.com", "2016-01-13", 23],
+            ["jpnn.com", "2016-01-14", 21],
+            ["jpnn.com", "2016-01-15", 14],
+            ["jpnn.com", "2016-01-16", 4],
+            ["bisnis.com", "2015-12-18", 33],
+            ["bisnis.com", "2015-12-19", 6],
+            ["bisnis.com", "2015-12-20", 8],
+            ["bisnis.com", "2015-12-21", 31],
+            ["bisnis.com", "2015-12-22", 36],
+            ["bisnis.com", "2015-12-23", 29],
+            ["bisnis.com", "2015-12-24", 3],
+            ["bisnis.com", "2015-12-25", 5],
+            ["bisnis.com", "2015-12-26", 8],
+            ["bisnis.com", "2015-12-27", 9],
+            ["bisnis.com", "2015-12-28", 16],
+            ["bisnis.com", "2015-12-29", 13],
+            ["bisnis.com", "2015-12-30", 7],
+            ["bisnis.com", "2015-12-31", 2],
+            ["bisnis.com", "2016-01-01", 10],
+            ["bisnis.com", "2016-01-02", 10],
+            ["bisnis.com", "2016-01-03", 6],
+            ["bisnis.com", "2016-01-04", 32],
+            ["bisnis.com", "2016-01-05", 26],
+            ["bisnis.com", "2016-01-06", 24],
+            ["bisnis.com", "2016-01-07", 9],
+            ["bisnis.com", "2016-01-08", 28],
+            ["bisnis.com", "2016-01-09", 14],
+            ["bisnis.com", "2016-01-10", 7],
+            ["bisnis.com", "2016-01-11", 19],
+            ["bisnis.com", "2016-01-12", 10],
+            ["bisnis.com", "2016-01-13", 21],
+            ["bisnis.com", "2016-01-14", 18],
+            ["bisnis.com", "2016-01-15", 24],
+            ["bisnis.com", "2016-01-16", 2],
+            ["viva.co.id", "2015-12-18", 20],
+            ["viva.co.id", "2015-12-19", 10],
+            ["viva.co.id", "2015-12-20", 5],
+            ["viva.co.id", "2015-12-21", 6],
+            ["viva.co.id", "2015-12-22", 18],
+            ["viva.co.id", "2015-12-23", 23],
+            ["viva.co.id", "2015-12-24", 6],
+            ["viva.co.id", "2015-12-25", 8],
+            ["viva.co.id", "2015-12-26", 8],
+            ["viva.co.id", "2015-12-27", 7],
+            ["viva.co.id", "2015-12-28", 25],
+            ["viva.co.id", "2015-12-29", 29],
+            ["viva.co.id", "2015-12-30", 14],
+            ["viva.co.id", "2015-12-31", 13],
+            ["viva.co.id", "2016-01-01", 7],
+            ["viva.co.id", "2016-01-02", 1],
+            ["viva.co.id", "2016-01-03", 7],
+            ["viva.co.id", "2016-01-04", 22],
+            ["viva.co.id", "2016-01-05", 14],
+            ["viva.co.id", "2016-01-06", 23],
+            ["viva.co.id", "2016-01-07", 15],
+            ["viva.co.id", "2016-01-08", 29],
+            ["viva.co.id", "2016-01-09", 10],
+            ["viva.co.id", "2016-01-10", 15],
+            ["viva.co.id", "2016-01-11", 15],
+            ["viva.co.id", "2016-01-12", 18],
+            ["viva.co.id", "2016-01-13", 10],
+            ["viva.co.id", "2016-01-14", 12],
+            ["viva.co.id", "2016-01-15", 7],
+            ["viva.co.id", "2016-01-16", 4],
+            ["okezone.com", "2015-12-18", 20],
+            ["okezone.com", "2015-12-19", 11],
+            ["okezone.com", "2015-12-20", 11],
+            ["okezone.com", "2015-12-21", 5],
+            ["okezone.com", "2015-12-22", 15],
+            ["okezone.com", "2015-12-23", 22],
+            ["okezone.com", "2015-12-24", 2],
+            ["okezone.com", "2015-12-25", 10],
+            ["okezone.com", "2015-12-26", 5],
+            ["okezone.com", "2015-12-27", 10],
+            ["okezone.com", "2015-12-28", 10],
+            ["okezone.com", "2015-12-29", 12],
+            ["okezone.com", "2015-12-30", 4],
+            ["okezone.com", "2015-12-31", 15],
+            ["okezone.com", "2016-01-01", 20],
+            ["okezone.com", "2016-01-02", 7],
+            ["okezone.com", "2016-01-03", 4],
+            ["okezone.com", "2016-01-04", 20],
+            ["okezone.com", "2016-01-05", 14],
+            ["okezone.com", "2016-01-06", 17],
+            ["okezone.com", "2016-01-07", 9],
+            ["okezone.com", "2016-01-08", 17],
+            ["okezone.com", "2016-01-09", 12],
+            ["okezone.com", "2016-01-10", 11],
+            ["okezone.com", "2016-01-11", 17],
+            ["okezone.com", "2016-01-12", 11],
+            ["okezone.com", "2016-01-13", 7],
+            ["okezone.com", "2016-01-14", 12],
+            ["okezone.com", "2016-01-15", 19],
+            ["okezone.com", "2016-01-16", 3],
+            ["kompas.com", "2015-12-18", 9],
+            ["kompas.com", "2015-12-19", 10],
+            ["kompas.com", "2015-12-20", 9],
+            ["kompas.com", "2015-12-21", 11],
+            ["kompas.com", "2015-12-22", 14],
+            ["kompas.com", "2015-12-23", 18],
+            ["kompas.com", "2015-12-24", 1],
+            ["kompas.com", "2015-12-25", 6],
+            ["kompas.com", "2015-12-26", 6],
+            ["kompas.com", "2015-12-27", 8],
+            ["kompas.com", "2015-12-28", 14],
+            ["kompas.com", "2015-12-29", 19],
+            ["kompas.com", "2015-12-30", 11],
+            ["kompas.com", "2015-12-31", 11],
+            ["kompas.com", "2016-01-01", 14],
+            ["kompas.com", "2016-01-02", 6],
+            ["kompas.com", "2016-01-03", 7],
+            ["kompas.com", "2016-01-04", 23],
+            ["kompas.com", "2016-01-05", 13],
+            ["kompas.com", "2016-01-06", 14],
+            ["kompas.com", "2016-01-07", 12],
+            ["kompas.com", "2016-01-08", 15],
+            ["kompas.com", "2016-01-09", 14],
+            ["kompas.com", "2016-01-10", 16],
+            ["kompas.com", "2016-01-11", 10],
+            ["kompas.com", "2016-01-12", 14],
+            ["kompas.com", "2016-01-13", 9],
+            ["kompas.com", "2016-01-14", 10],
+            ["kompas.com", "2016-01-15", 18],
+            ["kompas.com", "2016-01-16", 3],
+            ["sp.beritasatu.com", "2015-12-18", 19],
+            ["sp.beritasatu.com", "2015-12-19", 5],
+            ["sp.beritasatu.com", "2015-12-20", 3],
+            ["sp.beritasatu.com", "2015-12-21", 27],
+            ["sp.beritasatu.com", "2015-12-22", 23],
+            ["sp.beritasatu.com", "2015-12-23", 11],
+            ["sp.beritasatu.com", "2015-12-24", 13],
+            ["sp.beritasatu.com", "2015-12-25", 7],
+            ["sp.beritasatu.com", "2015-12-26", 5],
+            ["sp.beritasatu.com", "2015-12-27", 10],
+            ["sp.beritasatu.com", "2015-12-28", 3],
+            ["sp.beritasatu.com", "2015-12-29", 21],
+            ["sp.beritasatu.com", "2015-12-30", 0],
+            ["sp.beritasatu.com", "2015-12-31", 1],
+            ["sp.beritasatu.com", "2016-01-01", 0],
+            ["sp.beritasatu.com", "2016-01-02", 1],
+            ["sp.beritasatu.com", "2016-01-03", 1],
+            ["sp.beritasatu.com", "2016-01-04", 2],
+            ["sp.beritasatu.com", "2016-01-05", 1],
+            ["sp.beritasatu.com", "2016-01-06", 1],
+            ["sp.beritasatu.com", "2016-01-07", 0],
+            ["sp.beritasatu.com", "2016-01-08", 29],
+            ["sp.beritasatu.com", "2016-01-09", 4],
+            ["sp.beritasatu.com", "2016-01-10", 8],
+            ["sp.beritasatu.com", "2016-01-11", 24],
+            ["sp.beritasatu.com", "2016-01-12", 15],
+            ["sp.beritasatu.com", "2016-01-13", 27],
+            ["sp.beritasatu.com", "2016-01-14", 13],
+            ["sp.beritasatu.com", "2016-01-15", 19],
+            ["sp.beritasatu.com", "2016-01-16", 4],
+            ["antaranews.com", "2015-12-18", 13],
+            ["antaranews.com", "2015-12-19", 3],
+            ["antaranews.com", "2015-12-20", 3],
+            ["antaranews.com", "2015-12-21", 10],
+            ["antaranews.com", "2015-12-22", 11],
+            ["antaranews.com", "2015-12-23", 9],
+            ["antaranews.com", "2015-12-24", 3],
+            ["antaranews.com", "2015-12-25", 6],
+            ["antaranews.com", "2015-12-26", 8],
+            ["antaranews.com", "2015-12-27", 2],
+            ["antaranews.com", "2015-12-28", 8],
+            ["antaranews.com", "2015-12-29", 11],
+            ["antaranews.com", "2015-12-30", 18],
+            ["antaranews.com", "2015-12-31", 11],
+            ["antaranews.com", "2016-01-01", 11],
+            ["antaranews.com", "2016-01-02", 1],
+            ["antaranews.com", "2016-01-03", 3],
+            ["antaranews.com", "2016-01-04", 16],
+            ["antaranews.com", "2016-01-05", 9],
+            ["antaranews.com", "2016-01-06", 12],
+            ["antaranews.com", "2016-01-07", 8],
+            ["antaranews.com", "2016-01-08", 10],
+            ["antaranews.com", "2016-01-09", 11],
+            ["antaranews.com", "2016-01-10", 11],
+            ["antaranews.com", "2016-01-11", 7],
+            ["antaranews.com", "2016-01-12", 9],
+            ["antaranews.com", "2016-01-13", 13],
+            ["antaranews.com", "2016-01-14", 8],
+            ["antaranews.com", "2016-01-15", 16],
+            ["antaranews.com", "2016-01-16", 2],
+            ["id.beritasatu.com", "2015-12-18", 11],
+            ["id.beritasatu.com", "2015-12-19", 1],
+            ["id.beritasatu.com", "2015-12-20", 6],
+            ["id.beritasatu.com", "2015-12-21", 17],
+            ["id.beritasatu.com", "2015-12-22", 5],
+            ["id.beritasatu.com", "2015-12-23", 12],
+            ["id.beritasatu.com", "2015-12-24", 5],
+            ["id.beritasatu.com", "2015-12-25", 3],
+            ["id.beritasatu.com", "2015-12-26", 5],
+            ["id.beritasatu.com", "2015-12-27", 5],
+            ["id.beritasatu.com", "2015-12-28", 5],
+            ["id.beritasatu.com", "2015-12-29", 26],
+            ["id.beritasatu.com", "2015-12-30", 13],
+            ["id.beritasatu.com", "2015-12-31", 13],
+            ["id.beritasatu.com", "2016-01-01", 7],
+            ["id.beritasatu.com", "2016-01-02", 1],
+            ["id.beritasatu.com", "2016-01-03", 1],
+            ["id.beritasatu.com", "2016-01-04", 15],
+            ["id.beritasatu.com", "2016-01-05", 6],
+            ["id.beritasatu.com", "2016-01-06", 10],
+            ["id.beritasatu.com", "2016-01-07", 8],
+            ["id.beritasatu.com", "2016-01-08", 8],
+            ["id.beritasatu.com", "2016-01-09", 6],
+            ["id.beritasatu.com", "2016-01-10", 8],
+            ["id.beritasatu.com", "2016-01-11", 12],
+            ["id.beritasatu.com", "2016-01-12", 12],
+            ["id.beritasatu.com", "2016-01-13", 8],
+            ["id.beritasatu.com", "2016-01-14", 3],
+            ["id.beritasatu.com", "2016-01-15", 14],
+            ["liputan6.com", "2015-12-18", 25],
+            ["liputan6.com", "2015-12-19", 12],
+            ["liputan6.com", "2015-12-20", 7],
+            ["liputan6.com", "2015-12-21", 6],
+            ["liputan6.com", "2015-12-22", 17],
+            ["liputan6.com", "2015-12-23", 11],
+            ["liputan6.com", "2015-12-24", 1],
+            ["liputan6.com", "2015-12-25", 7],
+            ["liputan6.com", "2015-12-26", 9],
+            ["liputan6.com", "2015-12-27", 10],
+            ["liputan6.com", "2015-12-28", 14],
+            ["liputan6.com", "2015-12-29", 16],
+            ["liputan6.com", "2015-12-30", 18],
+            ["liputan6.com", "2015-12-31", 10],
+            ["liputan6.com", "2016-01-01", 6],
+            ["liputan6.com", "2016-01-02", 2],
+            ["liputan6.com", "2016-01-03", 2],
+            ["liputan6.com", "2016-01-04", 11],
+            ["liputan6.com", "2016-01-05", 1],
+            ["teropongsenayan.com", "2015-12-18", 3],
+            ["teropongsenayan.com", "2015-12-19", 3],
+            ["teropongsenayan.com", "2015-12-20", 3],
+            ["teropongsenayan.com", "2015-12-21", 4],
+            ["teropongsenayan.com", "2015-12-22", 5],
+            ["teropongsenayan.com", "2015-12-23", 8],
+            ["teropongsenayan.com", "2015-12-24", 2],
+            ["teropongsenayan.com", "2015-12-25", 1],
+            ["teropongsenayan.com", "2015-12-26", 1],
+            ["teropongsenayan.com", "2015-12-27", 2],
+            ["teropongsenayan.com", "2015-12-28", 8],
+            ["teropongsenayan.com", "2015-12-29", 3],
+            ["teropongsenayan.com", "2015-12-30", 3],
+            ["teropongsenayan.com", "2015-12-31", 2],
+            ["teropongsenayan.com", "2016-01-01", 4],
+            ["teropongsenayan.com", "2016-01-02", 3],
+            ["teropongsenayan.com", "2016-01-03", 3],
+            ["teropongsenayan.com", "2016-01-04", 8],
+            ["teropongsenayan.com", "2016-01-05", 3],
+            ["teropongsenayan.com", "2016-01-06", 2],
+            ["teropongsenayan.com", "2016-01-07", 4],
+            ["teropongsenayan.com", "2016-01-08", 4],
+            ["teropongsenayan.com", "2016-01-09", 3],
+            ["teropongsenayan.com", "2016-01-10", 6],
+            ["teropongsenayan.com", "2016-01-11", 3],
+            ["teropongsenayan.com", "2016-01-12", 2],
+            ["teropongsenayan.com", "2016-01-13", 2],
+            ["teropongsenayan.com", "2016-01-14", 0],
+            ["teropongsenayan.com", "2016-01-15", 2],
+            ["cnnindonesia.com", "2015-12-18", 3],
+            ["cnnindonesia.com", "2015-12-19", 4],
+            ["cnnindonesia.com", "2015-12-20", 0],
+            ["cnnindonesia.com", "2015-12-21", 3],
+            ["cnnindonesia.com", "2015-12-22", 3],
+            ["cnnindonesia.com", "2015-12-23", 2],
+            ["cnnindonesia.com", "2015-12-24", 1],
+            ["cnnindonesia.com", "2015-12-25", 0],
+            ["cnnindonesia.com", "2015-12-26", 0],
+            ["cnnindonesia.com", "2015-12-27", 4],
+            ["cnnindonesia.com", "2015-12-28", 6],
+            ["cnnindonesia.com", "2015-12-29", 1],
+            ["cnnindonesia.com", "2015-12-30", 2],
+            ["cnnindonesia.com", "2015-12-31", 2],
+            ["cnnindonesia.com", "2016-01-01", 4],
+            ["cnnindonesia.com", "2016-01-02", 1],
+            ["cnnindonesia.com", "2016-01-03", 3],
+            ["cnnindonesia.com", "2016-01-04", 3],
+            ["cnnindonesia.com", "2016-01-05", 3],
+            ["cnnindonesia.com", "2016-01-06", 2],
+            ["cnnindonesia.com", "2016-01-07", 3],
+            ["cnnindonesia.com", "2016-01-08", 7],
+            ["cnnindonesia.com", "2016-01-09", 2],
+            ["cnnindonesia.com", "2016-01-10", 2],
+            ["cnnindonesia.com", "2016-01-11", 4],
+            ["cnnindonesia.com", "2016-01-12", 6],
+            ["cnnindonesia.com", "2016-01-13", 1],
+            ["cnnindonesia.com", "2016-01-14", 2],
+            ["cnnindonesia.com", "2016-01-15", 1],
+            ["poskotanews.com", "2015-12-18", 8],
+            ["poskotanews.com", "2015-12-19", 8],
+            ["poskotanews.com", "2015-12-20", 3],
+            ["poskotanews.com", "2015-12-21", 4],
+            ["poskotanews.com", "2015-12-22", 1],
+            ["poskotanews.com", "2015-12-23", 0],
+            ["poskotanews.com", "2015-12-24", 1],
+            ["poskotanews.com", "2015-12-25", 0],
+            ["poskotanews.com", "2015-12-26", 2],
+            ["poskotanews.com", "2015-12-27", 1],
+            ["poskotanews.com", "2015-12-28", 2],
+            ["poskotanews.com", "2015-12-29", 4],
+            ["poskotanews.com", "2015-12-30", 2],
+            ["poskotanews.com", "2015-12-31", 3],
+            ["poskotanews.com", "2016-01-01", 1],
+            ["poskotanews.com", "2016-01-02", 1],
+            ["poskotanews.com", "2016-01-03", 1],
+            ["poskotanews.com", "2016-01-04", 0],
+            ["poskotanews.com", "2016-01-05", 1],
+            ["poskotanews.com", "2016-01-06", 3],
+            ["poskotanews.com", "2016-01-07", 2],
+            ["poskotanews.com", "2016-01-08", 1],
+            ["poskotanews.com", "2016-01-09", 0],
+            ["poskotanews.com", "2016-01-10", 3],
+            ["poskotanews.com", "2016-01-11", 4],
+            ["poskotanews.com", "2016-01-12", 0],
+            ["poskotanews.com", "2016-01-13", 1],
+            ["poskotanews.com", "2016-01-14", 0],
+            ["poskotanews.com", "2016-01-15", 1],
+            ["indopos.co.id", "2015-12-18", 3],
+            ["indopos.co.id", "2015-12-19", 5],
+            ["indopos.co.id", "2015-12-20", 2],
+            ["indopos.co.id", "2015-12-21", 1],
+            ["indopos.co.id", "2015-12-22", 3],
+            ["indopos.co.id", "2015-12-23", 1],
+            ["indopos.co.id", "2015-12-24", 1],
+            ["indopos.co.id", "2015-12-25", 0],
+            ["indopos.co.id", "2015-12-26", 0],
+            ["indopos.co.id", "2015-12-27", 3],
+            ["indopos.co.id", "2015-12-28", 4],
+            ["indopos.co.id", "2015-12-29", 2],
+            ["indopos.co.id", "2015-12-30", 0],
+            ["indopos.co.id", "2015-12-31", 4],
+            ["indopos.co.id", "2016-01-01", 2],
+            ["indopos.co.id", "2016-01-02", 1],
+            ["indopos.co.id", "2016-01-03", 2],
+            ["indopos.co.id", "2016-01-04", 1],
+            ["indopos.co.id", "2016-01-05", 0],
+            ["indopos.co.id", "2016-01-06", 0],
+            ["indopos.co.id", "2016-01-07", 0],
+            ["indopos.co.id", "2016-01-08", 2],
+            ["indopos.co.id", "2016-01-09", 1],
+            ["indopos.co.id", "2016-01-10", 2],
+            ["indopos.co.id", "2016-01-11", 2],
+            ["indopos.co.id", "2016-01-12", 3],
+            ["indopos.co.id", "2016-01-13", 0],
+            ["indopos.co.id", "2016-01-14", 2],
+            ["indopos.co.id", "2016-01-15", 0],
+            ["indopos.co.id", "2016-01-16", 1]
+        ],
+        "rows" : [
+            ["A00", "A0", 8],
+            ["A01", "A0", 8],
+            ["A02", "A0", 8],
+            ["A10", "A1", 8],
+            ["A11", "A1", 8],
+            ["A101", "A10", 8],
+            ["A102", "A10", 8],
+            ["zz", "A01", 8],
+
+            ["B01", "B0", 8],
+            ["B02", "B0", 8],
+            ["B03", "B0", 8],
+            ["B011", "B01", 8],
+            ["B012", "B01", 8],
+            ["B013", "B01", 8],
+            ["B021", "B02", 8],
+            ["B022", "B02", 8],
+            ["B023", "B02", 8],
+
+            ["C01", "C0", 8],
+            ["C02", "C0", 8],
+            ["C03", "C0", 8],
+            ["D01", "D0", 8],
+            ["D02", "D0", 8],
+            ["D03", "D0", 8]
+        ],
+        "data" : {
+            "name": "Treemap",
+            "children": [
+                {
+                    "name": "A0",
+                    "children": [
+                        {
+                            "name": "A00",
+                            "size": 8
+                        },
+                        {
+                            "name": "A01",
+                            "children": [
+                                {
+                                    "name": "zz",
+                                    "size": 8
+                                }
+                            ]
+                        },
+                        {
+                            "name": "A02",
+                            "size": 8
+                        }
+                    ]
+                },
+                {
+                    "name": "A1",
+                    "children": [
+                        {
+                            "name": "A10",
+                            "children": [
+                                {
+                                    "name": "A101",
+                                    "size": 8
+                                },
+                                {
+                                    "name": "A102",
+                                    "size": 8
+                                }
+                            ]
+                        },
+                        {
+                            "name": "A11",
+                            "size": 8
+                        }
+                    ]
+                },
+                {
+                    "name": "B0",
+                    "children": [
+                        {
+                            "name": "B01",
+                            "children": [
+                                {
+                                    "name": "B011",
+                                    "size": 8
+                                },
+                                {
+                                    "name": "B012",
+                                    "size": 8
+                                },
+                                {
+                                    "name": "B013",
+                                    "size": 8
+                                }
+                            ]
+                        },
+                        {
+                            "name": "B02",
+                            "children": [
+                                {
+                                    "name": "B021",
+                                    "size": 8
+                                },
+                                {
+                                    "name": "B022",
+                                    "size": 8
+                                },
+                                {
+                                    "name": "B023",
+                                    "size": 8
+                                }
+                            ]
+                        },
+                        {
+                            "name": "B03",
+                            "size": 8
+                        }
+                    ]
+                },
+                {
+                    "name": "C0",
+                    "children": [
+                        {
+                            "name": "C01",
+                            "size": 8
+                        },
+                        {
+                            "name": "C02",
+                            "size": 8
+                        },
+                        {
+                            "name": "C03",
+                            "size": 8
+                        }
+                    ]
+                },
+                {
+                    "name": "D0",
+                    "children": [
+                        {
+                            "name": "D01",
+                            "size": 8
+                        },
+                        {
+                            "name": "D02",
+                            "size": 8
+                        },
+                        {
+                            "name": "D03",
+                            "size": 8
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

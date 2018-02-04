@@ -1,0 +1,29 @@
+.d3-context-menu {
+    position: absolute;
+    display: none;
+    background-color: #F2F2F2;
+    border-radius: 4px;
+
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    min-width: 150px;
+    border: 1px solid #D4D4D4;
+
+    z-index: 1200;
+}
+
+.d3-context-menu ul {
+    list-style-type: none;
+    margin: 4px 0px;
+    padding: 0px;
+    cursor: default;
+}
+
+.d3-context-menu ul li {
+    padding: 4px 16px;
+}
+
+.d3-context-menu ul li:hover {
+    background-color: #4677F8;
+    color: #FEFEFE;
+}

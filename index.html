@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>D3 Explorer</title>
+    <link href="bower/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet"/>
+    <link href="libs/css/simple-sidebar.css" rel="stylesheet"/>
+    <link href="libs/css/carousel.css" rel="stylesheet">
+    <link href="libs/d3-context-menu/css/d3-context-menu.css" rel="stylesheet"/>
+    <style>
+        body {
+            padding-top: 50px;
+        }
+
+        .fill {
+            min-height: 100vh;
+            height: 100vh;
+        }
+
+        .selected {
+            background-color: rgba(255, 255, 255, 0.3);
+        }
+    </style>
+</head>
+<body class="fill">
+<nav class="navbar navbar-default navbar-fixed-top" style="border-bottom: 2px solid #000000">
+    <div class="container" style="margin: 0px 0px 0px 5px;">
+        <div class="navbar-header">
+            <a id="menu-toggle" class="navbar-brand" href="#menu-toggle">D3 Playground</a>
+        </div>
+    </div>
+</nav>
+<div id="wrapper" style="min-height: 100%;">
+    <div id="sidebar-wrapper" style="height: calc(100% - 50px)">
+        <ul class="sidebar-nav">
+            <li class="sidebar-brand" style="color:#F5F5F5; border-bottom: 1px solid grey;">Visuals</li>
+            <li><a href="#textfit" html="textfit.html">Text Fit</a></li>
+            <li><a href="#sunburst" html="sunburst.html">Sunburst</a></li>
+            <li><a href="#forcedirectedgraph" html="forcedirectedgraph.html">Force Directed Graph</a></li>
+            <li><a href="#wordcloud" html="wordcloud.html">Word Cloud</a></li>
+            <li><a href="#pie" html="pie.html">Pie</a></li>
+            <li><a href="#googlemap" html="googlemap.html">Google Map</a></li>
+            <li><a href="#line" html="line.html">Line</a></li>
+            <li><a href="#area" html="area.html">Area</a></li>
+            <li><a href="#bar" html="bar.html">Bar</a></li>
+            <li><a href="#treemap" html="treemap.html">Tree Map</a></li>
+            <li><a href="#donut" html="donut.html">Donut</a></li>
+            <li><a href="#bubble" html="bubble.html">Bubble</a></li>
+            <li><a href="#timeline" html="timeline.html">Timeline</a></li>
+            <li><a href="#carousel" html="carousel.html">Carousel</a></li>
+        </ul>
+    </div>
+    <div id="page-content-wrapper" style="margin: 0px;">Just click any explorer</div>
+</div>
+<script type="application/javascript" src="bower/d3/d3.min.js"></script>
+<script type="application/javascript" src="bower/dimple/dist/dimple.latest.min.js"></script>
+<script type="application/javascript" src="bower/jquery/dist/jquery.min.js"></script>
+<script type="application/javascript" src="bower/bootstrap/dist/js/bootstrap.min.js"></script>
+<script type="application/javascript" src="libs/d3.tip.js"></script>
+<script type="application/javascript" src="libs/d3-context-menu/js/d3-context-menu.js"></script>
+<script type="application/javascript" src="script/d3.extend.js"></script>
+<script>
+    $('#page-content-wrapper').height($('#wrapper').height() - 40);
+    $("#menu-toggle").click(function (e) {
+        e.preventDefault();
+        $("#wrapper").toggleClass("toggled");
+    });
+    $(".sidebar-nav>li>a[html]").on('click', function (event) {
+        $(".sidebar-nav>li.selected").removeClass('selected');
+        $(event.target).parent().addClass('selected');
+        $('#page-content-wrapper').load('html/' + event.target.getAttribute('html'));
+    });
+    $(".sidebar-nav>li>a[href='" + window.location.hash + "']").click();
+</script>
+</body>
+</html>

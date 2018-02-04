@@ -1,0 +1,86 @@
+.carousel {
+    height: 100%;
+}
+
+.carousel-caption {
+    z-index: 10;
+}
+
+.carousel .item {
+    height: 100%;
+}
+
+.carousel-inner > .item > img {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+@media (min-width: 768px) {
+    .carousel-caption p {
+        margin-bottom: 20px;
+        font-size: 21px;
+        line-height: 1.4;
+    }
+}
+
+.carousel-control.left {
+    background-image: -webkit-linear-gradient(left, rgba(0, 0, 0, .05) 0, rgba(0, 0, 0, .0001) 100%) !important;
+    background-image: -o-linear-gradient(left, rgba(0, 0, 0, .05) 0, rgba(0, 0, 0, .0001) 100%) !important;
+    background-image: -webkit-gradient(linear, left top, right top, from(rgba(0, 0, 0, .05)), to(rgba(0, 0, 0, .0001))) !important;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, .05) 0, rgba(0, 0, 0, .0001) 100%) !important;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#80000000', endColorstr='#00000000', GradientType=1) !important;
+    background-repeat: repeat-x;
+}
+
+.carousel-control.right {
+    right: 0;
+    left: auto;
+    background-image: -webkit-linear-gradient(left, rgba(0, 0, 0, .0001) 0, rgba(0, 0, 0, .05) 100%);
+    background-image: -o-linear-gradient(left, rgba(0, 0, 0, .0001) 0, rgba(0, 0, 0, .05) 100%);
+    background-image: -webkit-gradient(linear, left top, right top, from(rgba(0, 0, 0, .0001)), to(rgba(0, 0, 0, .05)));
+    background-image: linear-gradient(to right, rgba(0, 0, 0, .0001) 0, rgba(0, 0, 0, .05) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00000000', endColorstr='#80000000', GradientType=1);
+    background-repeat: repeat-x;
+}
+
+.carousel-indicator-bottom {
+    background-color: rgba(0, 0, 0, 0.3);
+    bottom: -10px;
+    width: 100%;
+    left: 30%;
+}
+
+.carousel-inner-fit {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.carousel-nav-left {
+    left: 30px !important;
+    color: black !important;
+}
+
+.carousel-nav-right {
+    right: 30px !important;
+    color: black !important;
+}
+
+.carousel-item-container {
+    height: 100%;
+    padding: 15px 50px;
+}
+
+.carousel-item-container table {
+    font-size: smaller !important;
+}
+
+.carousel-item-container table th {
+    padding: 5px !important;
+}
+
+.carousel-item-container td {
+    padding: 5px !important;
+}

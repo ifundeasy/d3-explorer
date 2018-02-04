@@ -1,0 +1,20 @@
+{
+    "name" : "d3-explorer",
+    "version" : "0.0.0",
+    "authors" : [
+        "Afa Rappresent <mail.vudin@gmail.com>"
+    ],
+    "license" : "MIT",
+    "ignore" : [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies" : {
+        "bootstrap" : "~3.3.4",
+        "d3" : "~3.5.5",
+        "dimple" : "~2.1.2"
+    }
+}
